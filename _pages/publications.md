@@ -15,6 +15,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ---
 
 <p>
+<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Zhengjie Du, Yuekang Li, Yaowen Zheng, Xiaohan Zhang, <font color="blue">Cen Zhang</font>, Yi Liu, Sheikh Mahbub Habib, Xinghua Li, Linzhang Wang, Yang Liu, Bing Mao. Medusa: Unveil Memory Exhaustion DoS Vulnerabilities in Protocol Implementations, WWW 2024.
+</p>
+
+<p>
 <a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Yiming Liu, <font color="blue">Cen Zhang</font>, Feng Li, Yeting Li, Jianhua Zhou, Jian Wang, Lanlan Zhan, Yang Liu, Wei Huo. Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware, ICSE 2024. <font color="blue">Acceptance Rate: 8% (65/808)</font>
 </p>
 
