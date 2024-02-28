@@ -8,7 +8,8 @@ redirect_from:
   - /awards.html
 ---
 
-- **ACM Distinguished Paper Award**, ASE 2023
+- **ACM SIGSOFT Distinguished Paper Award**, ICSE 2024
+- **ACM SIGSOFT Distinguished Paper Award**, ASE 2023
 - **Best Paper Award of Year 2021**, Most Influential Research Paper Election of Ant Finance
 - **Best Early-Research-Achievement Paper**, APSEC 2020
 - **1st Award in Prototype Competition (freestyle track)**, NASAC 2019
