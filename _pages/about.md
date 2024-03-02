@@ -24,6 +24,7 @@ Currently, I am a Research Fellow in [CYSREN@NTU](https://www.ntu.edu.sg/cysren)
 ---
 
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; <font color="red">I'm in the job market!</font>
+- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Mar 2024: Our paper "DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications" is accepted by ISSTA 2024.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Jan 2024: Our paper "Medusa: Unveil Memory Exhaustion DoS Vulnerabilities in Protocol Implementations" is accepted by WWW 2024.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Oct 2023: Our paper "Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware" is accepted by ICSE 2024, <font color="blue">Acceptance Rate: 8%, 65/808, 10K+ USD Bug Bounty</font> <font color="red">ACM SIGSOFT Distinguished Paper Award</font>
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; July 2023: Our paper "Aster: Automatic Speech Recognition System Accessibility Testing for Stutterers" is accepted by ASE 2023.
