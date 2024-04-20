@@ -36,7 +36,7 @@ Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Zhiming Li, Yanzhou Li, <font color="blue">Tianlin Li#</font>, Mengnan Du, Bozhi Wu, Yushi Cao, Xiaofei Xie, Yi Li, Yang Liu. Unveiling Project-Specific Bias in Neural Code Models, <b>LREC-Coling 2024</b>b>.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Zhiming Li, Yanzhou Li, <font color="blue">Tianlin Li#</font>, Mengnan Du, Bozhi Wu, Yushi Cao, Xiaofei Xie, Yi Li, Yang Liu. Unveiling Project-Specific Bias in Neural Code Models, <b>LREC-Coling 2024</b>.
 </p>
 
 <p>
