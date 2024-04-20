@@ -19,6 +19,12 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 </p>
 
 <p>
+<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li*</font>, Xiaoyu Zhang*, Chao Du, Tianyu Pang, Qian Liu, Qing Guo, Chao
+Shen, Yang Liu. Your Large Language Model is Secretly a Fairness Proponent and You
+Should Prompt it Like One, Preprint.
+</p>
+
+<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yihao Huang, Yue Cao, <font color="blue">Tianlin Li#</font>, Felix Juefei-Xu, Di Lin, Ivor W Tsang, Yang
 Liu, Qing Guo#. On the robustness of segment anything, Preprint.
 </p>
@@ -28,15 +34,9 @@ Liu, Qing Guo#. On the robustness of segment anything, Preprint.
 Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection, Preprint.
 </p>
 
-<p>
-<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li*</font>, Xiaoyu Zhang*, Chao Du, Tianyu Pang, Qian Liu, Qing Guo, Chao
-Shen, Yang Liu. Your Large Language Model is Secretly a Fairness Proponent and You
-Should Prompt it Like One, Preprint.
-</p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Zhiming Li, Yanzhou Li, <font color="blue">Tianlin Li#</font>, Mengnan Du, Bozhi Wu, Yushi Cao, Xi-
-aofei Xie, Yi Li, Yang Liu. Unveiling Project-Specific Bias in Neural Code Models, LREC-Coling 2024.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Zhiming Li, Yanzhou Li, <font color="blue">Tianlin Li#</font>, Mengnan Du, Bozhi Wu, Yushi Cao, Xiaofei Xie, Yi Li, Yang Liu. Unveiling Project-Specific Bias in Neural Code Models, LREC-Coling 2024.
 </p>
 
 <p>
