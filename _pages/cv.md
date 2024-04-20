@@ -8,6 +8,6 @@ redirect_from:
   - /resume.html
 ---
 
-You can find my CV from [here](http://cenzhang.github.io/files/cenzhang-cv.pdf).
+You can find my CV from [here](http://ltl7155.github.io/files/ltl7155-cv.pdf).
 
 ---
