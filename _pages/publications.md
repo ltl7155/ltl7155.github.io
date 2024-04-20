@@ -91,11 +91,15 @@ Meng, Yang Liu. Fairness via Group Contribution Matching, IJCAI 2023 <font color
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Xiaofei Xie*, <font color="blue">Tianlin Li*</font>, Jian Wang, Lei Ma, Qing Guo, Felix Juefei-Xu, Yang Liu. Decision Logic of Deep Neural Networks, TOSEM 2021.
-
 </p>
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Ruofan Liang*, <font color="blue">Tianlin Li*</font>, Longfei Li, Jing Wang, Quanshi Zhang. Knowledge consistency between neural networks, ICLR 2020.
+</p>
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Chongzhi Zhang, Aishan Liu, Xianglong Liu, Yitao Xu, Hang Yu, Yuqing Ma, <font color="blue">Tianlin Li</font>. Interpreting and improving adversarial robustness of deep neural net-
+works with neuron sensitivity, TIP 2020.
 </p>
 
 ---
