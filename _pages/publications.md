@@ -10,7 +10,7 @@ redirect_from:
   - /publications.html
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> <i>(* for co-first author, # for corresponding author)</i>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=XB6CydwAAAAJ&hl=en">my Google Scholar profile</a>.</u> <i>(* for co-first author, # for corresponding author)</i>
 
 ---
 
