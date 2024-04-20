@@ -24,6 +24,11 @@ Liu, Qing Guo#. On the robustness of segment anything, Preprint.
 </p>
 
 <p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Xiaoyu Zhang, <font color="blue">Tianlin Li</font>, Cen Zhang, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
+Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection, Preprint.
+</p>
+
+<p>
 <a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li *</font>, Xiaoyu Zhang*, Chao Du, Tianyu Pang, Qian Liu, Qing Guo, Chao
 Shen, Yang Liu. Your Large Language Model is Secretly a Fairness Proponent and You
 Should Prompt it Like One, Preprint.
@@ -52,42 +57,41 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/files/pubs/2021-ccs-ecmo.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Muhui Jiang, Lin Ma, Yajin Zhou, Qiang Liu, <font color="blue">Tianlin Li</font>, Zhi Wang, Xiapu Luo, Lei Wu, and Kui Ren. ECMO: Peripheral Transplantation to Rehost Embedded Linux Kernels, CCS 2021.
+<a class="media" href="https://ltl7155.github.io/files/pubs/2021-ccs-ecmo.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yihao Huang, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Hu Ming, <font color="blue">Tianlin Li</font>, Geguang Pu, Yang Liu. Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models, AAAI 2024.
 </p>
 
 <p>
-<a class="media" href="https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-cen" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li</font>, Xingwei Lin, Yuekang Li, Yinxing Xue, Jundong Xie, Hongxu Chen, Xinlei Ying, Jiashui Wang, and Yang Liu. APICraft: Fuzz Driver Generation for Closed-source SDK Libraries, USENIX Security 2021.
-<font color="red">Most Influential Research Paper of Year 2021 in Ant Finance</font>
+<a class="media" href="https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-cen" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Jian Zhang, Shangqing Liu, Xu Wang, <font color="blue">Tianlin Li</font>, Yang Liu. Learning to Locate and Describe Vulnerabilities, ASE 2023.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/files/pubs/2021-ase-firmguide.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Qiang Liu*, <font color="blue">Tianlin Li*</font>, Lin Ma, Muhui Jiang, Yajin Zhou, Lei Wu, Wenbo Shen, Xiapu Luo, Yang Liu, and Kui Ren. FirmGuide: Boosting the Capability of Rehosting Embedded Linux Kernels Through Model-Guided Kernel Execution, ASE 2021.
+<a class="media" href="https://ltl7155.github.io/files/pubs/2021-ase-firmguide.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li*</font>, Yue Cao*, Jian Zhang, Shiqian Zhao, Yihao Huang, Aishan Liu, Qing Guo, Yang Liu. RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness, ICSE 2024 <font color="red">oral</font>.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yuekang Li, Guozhu Meng, Jun Xu, <font color="blue">Tianlin Li</font>, Hongxu Chen, Xiaofei Xie, Haijun Wang, and Yang Liu. Vall-nut: Principled anti-grey box fuzzing, ISSRE 2021.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li</font>, Xiaofei Xie, Jian Wang, Qing Guo, Aishan Liu, Lei Ma, Yang Liu. Faire: Repairing Fairness of Neural Networks via Neuron Condition Synthesis, TOSEM 2023.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li*</font>, Yuekang Li*, Hongxu Chen, Xiaoxing Luo, Miaohua Li, Anh Quynh Nguyen, and Yang Liu. BIFF: Practical Binary Fuzzing Framework for Programs of IoT and Mobile Devices, ASE 2021 Industrial Track.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li</font>, Qing Guo, Aishan Liu, Mengnan Du, Zhiming Li, Yang Liu. FAIRER: FAIRNESS AS DECISION RATIONALE ALIGNMENT, ICML 2023.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yuekang Li, Hongxu Chen, <font color="blue">Tianlin Li</font>, Siyang Xiong, Chaoyi Liu, and Yi Wang. Ori: A Greybox Fuzzer for SOME/IP Protocols in Automotive Ethernet, APSEC 2020.
-<font color="red">Best Paper Award in Early Research Achievement Track</font>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li</font>, Zhiming Li, Anran Li, Mengnan Du, Aishan Liu, Qing Guo, Guozhu
+Meng, Yang Liu. Fairness via Group Contribution Matching, IJCAI 2023 <font color="red">oral</font>.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Hongxu Chen, Shengjian Guo, Yinxing Xue, Yulei Sui, <font color="blue">Tianlin Li</font>, Yuekang Li, Haijun Wang, and Yang Liu. MUZZ: Thread-aware grey-box fuzzing for effective bug hunting in multithreaded programs, USENIX Security 20.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  <font color="blue">Tianlin Li *</font>, Aishan Liu*, Xianglong Liu, Yitao Xu, Chongzhi Zhang, Xiaofei Xie. Understanding adversarial robustness via critical attacking route, Information Science 2020.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li</font>, Yuekang Li, Hongxu Chen, Anh Quynh Nguyen, Yang Liu. BiFF: An Effective Binary Fuzzing Framework with Cross-Architecture Support, NASAC 2019.
-<font color="red">First Award in Software Prototype Competition Free Track</font>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Xiaofei Xie*, <font color="blue">Tianlin Li *</font>, Jian Wang, Lei Ma, Qing Guo, Felix Juefei-Xu, Yang Liu. Decision Logic of Deep Neural Networks, TOSEM 2021.
+
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yuekang Li, Yinxing Xue, Hongxu Chen, Xiuheng Wu, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Haijun Wang, and Yang Liu. Cerebro: context-aware adaptive fuzzing for effective vulnerability detection, ESEC/FSE 2019.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Ruofan Liang*, <font color="blue">Tianlin Li</font>, Longfei Li, Jing Wang, Quanshi Zhang. Knowledge consistency between neural networks, ICLR 2020.
 </p>
 
 ---
