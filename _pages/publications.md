@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ---
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li</font>, Qian Liu, Tianyu Pang, Chao Du, Qing Guo, Yang Liu, Min Lin. Purifying Large Language Models by Ensembling a Small Language Model, <p style="font-weight: bold;">Preprint</p>.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li</font>, Qian Liu, Tianyu Pang, Chao Du, Qing Guo, Yang Liu, Min Lin. Purifying Large Language Models by Ensembling a Small Language Model, <b>Preprint</b>.
 </p>
 
 <p>
