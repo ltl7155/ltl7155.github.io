@@ -82,6 +82,10 @@ Meng, Yang Liu. Fairness via Group Contribution Matching, IJCAI 2023 <font color
 </p>
 
 <p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yisong Xiao, Aishan Liu, <font color="blue">Tianlin Li</font>,Xianglong Liu. Latent Imitator: Generating Natural Individual Discriminatory, ISSTA 2023.
+</p>
+
+<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  <font color="blue">Tianlin Li*</font>, Aishan Liu*, Xianglong Liu, Yitao Xu, Chongzhi Zhang, Xiaofei Xie. Understanding adversarial robustness via critical attacking route, Information Science 2020.
 </p>
 
