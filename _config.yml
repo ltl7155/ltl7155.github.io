@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cen Zhang"
-  avatar           : "cenzhang.jpg"
-  bio              : "Security Researcher"
+  name             : "Tianlin Li"
+  avatar           : "tianlin.jpg"
+  bio              : "AI&SE Researcher"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Vy2-YDoAAAAJ&hl=en"
-  email            : "blbllhy@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=XB6CydwAAAAJ&hl=en"
+  email            : "ltl.7155.t@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "occia"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5603-1322"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zhclhy"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
