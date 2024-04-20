@@ -10,20 +10,15 @@ redirect_from:
 
 ---
 
-I was a Ph.D student at the School of Computer Science and Engineering in Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/).
+I'm a final-year Ph.D student at the School of Computer Science and Engineering in Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/).
 
-My Ph.D works mainly center around building tools for detecting software vulnerabilities, including the **Fuzz Driver Generation**, **Firmware Rehosting**, and **Binary Instrumentation**.
-They worked by enabling the fuzz testing on the targets that cannot be effectively applied before.
-In the near future, I plan to explore more possibilities on **vulnerability detection**, such as modeling new kinds of vulnerbilities, exploring LLM-assisted approaches, etc.
-In the long run, I'm eager to build more cool things!
-
-Currently, I am a Research Fellow in [CYSREN@NTU](https://www.ntu.edu.sg/cysren) since July 2023, and also working as Project Co-Investigator for some projects.
+My Ph.D. research primarily focuses on the broad intersection between Artificial Intelligence and Software Engineering.
 
 # News
 
 ---
 
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; <font color="red">I'm in the job market!</font>
+- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; I'm in the job market!
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Mar 2024: Our paper "DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications" is accepted by ISSTA 2024.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Jan 2024: Our paper "Medusa: Unveil Memory Exhaustion DoS Vulnerabilities in Protocol Implementations" is accepted by WWW 2024.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Oct 2023: Our paper "Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware" is accepted by ICSE 2024, <font color="blue">Acceptance Rate: 8%, 65/808, 10K+ USD Bug Bounty</font> <font color="red">ACM SIGSOFT Distinguished Paper Award</font>
