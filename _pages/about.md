@@ -10,7 +10,8 @@ redirect_from:
 
 ---
 
-I'm a final-year Ph.D student at the School of Computer Science and Engineering in Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/).
+I'm a final-year Ph.D student at the School of Computer Science and Engineering in Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/). 
+I have been awarded third place in the AISG Trusted Media Challenge, receiving a cash prize of 25,000 SGD, along with the AISG PhD Fellowship and the DAAD AInet Fellowship.
 
 My Ph.D. research primarily focuses on the broad intersection between Artificial Intelligence and Software Engineering.
 
@@ -18,15 +19,12 @@ My Ph.D. research primarily focuses on the broad intersection between Artificial
 
 ---
 
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; I'm in the job market!
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Mar 2024: Our paper "DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications" is accepted by ISSTA 2024.
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Jan 2024: Our paper "Medusa: Unveil Memory Exhaustion DoS Vulnerabilities in Protocol Implementations" is accepted by WWW 2024.
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; Oct 2023: Our paper "Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware" is accepted by ICSE 2024, <font color="blue">Acceptance Rate: 8%, 65/808, 10K+ USD Bug Bounty</font> <font color="red">ACM SIGSOFT Distinguished Paper Award</font>
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; July 2023: Our paper "Aster: Automatic Speech Recognition System Accessibility Testing for Stutterers" is accepted by ASE 2023.
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; July 2023: Our paper "EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software" is accepted by ASE 2023 and has won <font color="red">ACM SIGSOFT Distinguished Paper Award</font>.
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; April 2023: Our paper "Effective ReDoS Detection by Principled Vulnerability Modeling and Exploit Generation" is accepted by IEEE S&P 2023.
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; October 2022: Our paper "Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation" is accepted by Usenix Security 2023.
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; April 2022: Our paper "Efficient Greybox Fuzzing of Applications in Linux-based IoT Devices via Enhanced User-mode Emulation" is accepted by ISSTA 2022.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2024: I get the DAAD AInet Fellowship.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Feb 2024: Our paper "Unveiling project-specific bias in neural code models" is accepted by COLING 2024.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Feb 2024: Our paper "BadEdit: Backdooring Large Language Models by Model Editing" is accepted by ICLR 2024.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Feb 2024: Our paper "IRAD: Implicit Representation-driven Image Resampling against Adversarial Attacks" is accepted by ICLR 2024.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2023: Our paper "FedMut: Generalized Federated Learning via Stochastic Mutation" is accepted by AAAI 2024 <font color="blue">(oral)</font>.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2023: Our paper "Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Model" is accepted by AAAI 2024.
 
 ---
 
