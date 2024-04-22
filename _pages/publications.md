@@ -30,7 +30,7 @@ Liu, Qing Guo#. On the robustness of segment anything, <b>Preprint</b>.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Xiaoyu Zhang, <font color="blue">Tianlin Li</font>, Cen Zhang, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Xiaoyu Zhang, Cen Zhang, <font color="blue">Tianlin Li</font>, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
 Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection, <b>Preprint</b>.
 </p>
 
@@ -82,7 +82,7 @@ Meng, Yang Liu. Fairness via Group Contribution Matching, <b>IJCAI 2023</b> <fon
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yisong Xiao, Aishan Liu, <font color="blue">Tianlin Li</font>,Xianglong Liu. Latent Imitator: Generating Natural Individual Discriminatory, <b>ISSTA 2023</b>.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yisong Xiao, Aishan Liu, <font color="blue">Tianlin Li</font>, Xianglong Liu. Latent Imitator: Generating Natural Individual Discriminatory, <b>ISSTA 2023</b>.
 </p>
 
 <p>
