@@ -18,7 +18,7 @@ My Ph.D. research primarily focuses on the broad intersection between Artificial
 # News
 
 ---
-
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Feb 2024: Our paper "Improving Neural Logic Machines via Failure Reflection" is accepted by ICML 2024. Congrats to Zhiming!
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2024: I get the DAAD AInet Fellowship.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Feb 2024: Our paper "Unveiling project-specific bias in neural code models" is accepted by COLING 2024.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Feb 2024: Our paper "BadEdit: Backdooring Large Language Models by Model Editing" is accepted by ICLR 2024.
