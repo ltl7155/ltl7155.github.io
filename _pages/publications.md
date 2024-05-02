@@ -30,15 +30,13 @@ Liu, Qing Guo#. On the robustness of segment anything, <b>Preprint</b>.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Zhiming Li, Yushi Cao, Yan Zheng, Xu Liu, Bozhi Wu, <font color="blue">Tianlin Li</font>, Xiufeng Xu, Junzhe Jiang, Yon Shin Teo, Shang-Wei Lin, Yang Liu. Improving Neural Logic Machines via Failure Reflection, <b>ICML 2024</b>.
-</p>
-
-
-<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Xiaoyu Zhang, Cen Zhang, <font color="blue">Tianlin Li</font>, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
 Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection, <b>Preprint</b>.
 </p>
 
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Zhiming Li, Yushi Cao, Yan Zheng, Xu Liu, Bozhi Wu, <font color="blue">Tianlin Li</font>, Xiufeng Xu, Junzhe Jiang, Yon Shin Teo, Shang-Wei Lin, Yang Liu. Improving Neural Logic Machines via Failure Reflection, <b>ICML 2024</b>.
+</p>
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Zhiming Li, Yanzhou Li, <font color="blue">Tianlin Li#</font>, Mengnan Du, Bozhi Wu, Yushi Cao, Xiaofei Xie, Yi Li, Yang Liu. Unveiling Project-Specific Bias in Neural Code Models, <b>LREC-Coling 2024</b>.
