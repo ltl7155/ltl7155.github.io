@@ -35,7 +35,7 @@ Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Zhiming Li, Yushi Cao, Yan Zheng, Xu Liu, Bozhi Wu, <font color="blue">Tianlin Li</font>, Xiufeng Xu, Junzhe Jiang, Yon Shin Teo, Shang-Wei Lin, Yang Liu. Improving Neural Logic Machines via Failure Reflection, <b>ICML 2024</b>.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Zhiming Li, Yushi Cao, Yan Zheng#, Xu Liu, Bozhi Wu, <font color="blue">Tianlin Li#</font>, Xiufeng Xu, Junzhe Jiang, Yon Shin Teo, Shang-Wei Lin, Yang Liu. Improving Neural Logic Machines via Failure Reflection, <b>ICML 2024</b>.
 </p>
 
 <p>
