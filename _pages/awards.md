@@ -8,7 +8,7 @@ redirect_from:
   - /awards.html
 ---
 
-- **DAAD AInet Fellowship**, 2024, Awarded by DAAD, German.
+- **DAAD AInet Fellowship**, 2024, Awarded by DAAD, Germany.
 - **3rd place in the AISG Trusted Media Challenge with 25K SGD cash prize**, 2022, Awarded by AI Singapore.
 - **AISG PhD Fellowship**, 2021-2024, Awarded by AI Singapore.
 - **Outstanding Teaching Assistant**, 2018, Awarded by Beihang University.
