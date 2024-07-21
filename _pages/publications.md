@@ -35,7 +35,7 @@ Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  Zeke Xia, Ming Hu, Dengke Yan, Xiaofei Xie, <font color="blue">Tianlin Li#</font>, Anran Li, Junlong Zhou, and Mingsong Chen.  CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance, <b>EMSOFT 2024, TCAD</b>.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  Zeke Xia, Ming Hu, Dengke Yan, Xiaofei Xie, <font color="blue">Tianlin Li</font>, Anran Li, Junlong Zhou, and Mingsong Chen.  CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance, <b>EMSOFT 2024, TCAD</b>.
 </p>
 
 <p>
