@@ -14,6 +14,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ---
 
+
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li</font>, Qian Liu, Tianyu Pang, Chao Du, Qing Guo, Yang Liu, Min Lin. Purifying Large Language Models by Ensembling a Small Language Model, <b>Preprint</b>.
 </p>
@@ -33,6 +34,11 @@ Liu, Qing Guo#. On the robustness of segment anything, <b>Preprint</b>.
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Xiaoyu Zhang, Cen Zhang, <font color="blue">Tianlin Li</font>, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
 Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection, <b>Preprint</b>.
 </p>
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Jian Zhang, Chong Wang, Anran Li, Wenhan Wang, <font color="blue">Tianlin Li</font>, Yang Liu, VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair <b>ASE 2024</b>.
+</p>
+
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  Zeke Xia, Ming Hu, Dengke Yan, Xiaofei Xie, <font color="blue">Tianlin Li</font>, Anran Li, Junlong Zhou, and Mingsong Chen.  CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance, <b>EMSOFT 2024, TCAD</b>.
