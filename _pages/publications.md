@@ -78,7 +78,7 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/files/pubs/2021-ase-firmguide.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li*</font>, Yue Cao*, Jian Zhang, Shiqian Zhao, Yihao Huang, Aishan Liu, Qing Guo, Yang Liu. RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness, <b>ICSE 2024</b> <font color="red">oral</font>.
+<a class="media" href="https://ltl7155.github.io/files/pubs/2021-ase-firmguide.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li*</font>, Yue Cao*, Jian Zhang, Shiqian Zhao, Yihao Huang, Aishan Liu, Qing Guo, Yang Liu. RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness, <b>ICSE 2024</b>.
 </p>
 
 <p>
@@ -91,7 +91,7 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <font color="blue">Tianlin Li</font>, Zhiming Li, Anran Li, Mengnan Du, Aishan Liu, Qing Guo, Guozhu
-Meng, Yang Liu. Fairness via Group Contribution Matching, <b>IJCAI 2023</b> <font color="red">oral</font>.
+Meng, Yang Liu. Fairness via Group Contribution Matching, <b>IJCAI 2023</b>.
 </p>
 
 <p>
