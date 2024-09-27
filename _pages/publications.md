@@ -36,6 +36,10 @@ Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack
 </p>
 
 <p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yanxin Yang, Chentao Jia, Dengke Yan, Ming Hu, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Xian Wei, and Mingsong Chen,  SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification <b>NeurIPS 2024</b>.
+</p>
+
+<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Jian Zhang, Chong Wang, Anran Li, Wenhan Wang, <font color="blue">Tianlin Li</font>, Yang Liu, VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair <b>ASE 2024</b>.
 </p>
 
