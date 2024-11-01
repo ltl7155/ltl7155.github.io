@@ -18,7 +18,8 @@ My Ph.D. research primarily focuses on the broad intersection between Artificial
 # News
 
 ---
-- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Sept 2024: Our paper " SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification" is accepted by NeurIPS 2024.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Oct 2024: Our paper "BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks" is accepted by ICSE 2025. Congrats to Yisong!
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Sept 2024: Our paper "SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification" is accepted by NeurIPS 2024.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Aug 2024: Our paper "VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair" is accepted by ASE 2024.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; July 2024: Our paper "CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance" is accepted by EMSOFT 2024 and TCAD.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; May 2024: Our paper "Improving Neural Logic Machines via Failure Reflection" is accepted by ICML 2024. Congrats to Zhiming!
