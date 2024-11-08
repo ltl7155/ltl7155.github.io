@@ -7,7 +7,7 @@ redirect_from:
   - /awards
   - /awards.html
 ---
-
+- **Top Reviewers for NeurIPS 2024 (1304/15160 8.6%)**
 - **DAAD AInet Fellowship**, 2024, Awarded by DAAD, Germany.
 - **3rd place in the AISG Trusted Media Challenge with 25K SGD cash prize**, 2022, Awarded by AI Singapore.
 - **AISG PhD Fellowship**, 2021-2024, Awarded by AI Singapore.
