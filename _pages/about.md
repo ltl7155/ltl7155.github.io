@@ -18,7 +18,7 @@ My Ph.D. research primarily focuses on the broad intersection between Artificial
 # News
 
 ---
-- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Nov 2024: We won the championship in the NTU 2024 Staff 3x3 Basketball Tournament and achieved 1st runner-up in the 2024 Sports Challenge Basketball Event.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Nov 2024: <img src="https://ltl7155.github.io/images/basketball.png"> <img src="https://ltl7155.github.io/images/basketball.png"> We won the championship in the NTU 2024 Staff 3x3 Basketball Tournament and achieved 1st runner-up in the 2024 Sports Challenge Basketball Event.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Oct 2024: Our paper "BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks" is accepted by ICSE 2025. Congrats to Yisong!
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Sept 2024: Our paper "SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification" is accepted by NeurIPS 2024.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Aug 2024: Our paper "VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair" is accepted by ASE 2024.
