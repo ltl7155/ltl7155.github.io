@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 I'm a research student at the School of Computer Science and Engineering at Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/). 
-I have been awarded third place in the AISG Trusted Media Challenge, receiving a cash prize of 25,000 SGD, along with the AISG PhD Fellowship and the DAAD AInet Fellowship.
+I have been awarded third place in the AISG Trusted Media Challenge, receiving a cash prize of 25,000 SGD, along with the AISG PhD Fellowship and the DAAD AInet Fellowship. I feel fortunate to have the opportunity to work with Tianyu Pang, Chao Du, Qian Liu, and Min Lin at Sea AI Lab.
 
 My Ph.D. research primarily focuses on the broad intersection between Artificial Intelligence and Software Engineering. Specifically, I'm interested in using software engineering (SE) methods to regulate AI-based software development to build trustworthy AI models (SE4AI) and in developing trustworthy code LLMs (AI4SE).
 
