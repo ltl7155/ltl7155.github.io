@@ -16,6 +16,7 @@ redirect_from:
 - Reviewer of Pattern Recognition (PR)
 - Reviewer of Neurocomputing
 - Reviewer of IEEE Internet of Things Journal (IoT)
+- Reviewer of ACM Transactions on Privacy and Security (ToPS)
 
 ## Conferences
 
