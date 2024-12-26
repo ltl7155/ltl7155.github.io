@@ -18,6 +18,8 @@ My Ph.D. research primarily focuses on the broad intersection between Artificial
 # News
 
 ---
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2024: Our paper "Towards Trustworthy LLMs for Code: A Data-Centric Synergistic Auditing Framework" is accepted by ICSE 2025 NIER track. 
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2024: Our paper "Perception-guided jailbreak against text-to-image models" is accepted by AAAI 2025. 
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Nov 2024: I have been selected as one of the top reviewers for NeurIPS 2024 (1304/15160 8.6%).
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Nov 2024: We won the championship in the NTU 2024 Staff 3x3 Basketball Tournament and achieved 1st runner-up in the 2024 Sports Challenge Basketball Event.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Oct 2024: Our paper "BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks" is accepted by ICSE 2025. Congrats to Yisong!
