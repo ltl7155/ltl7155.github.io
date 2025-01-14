@@ -36,6 +36,15 @@ Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack
 </p>
 
 <p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yisong Xiao, Aishan Liu, Xinwei Zhang, Tianyuan Zhang, <font color="blue">Tianlin Li</font>, Siyuan Liang, Xianglong Liu, Yang Liu, Dacheng Tao,  BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks <b>AAAI 2025</b>.
+</p>
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yihao Huang, Le Liang, <font color="blue">Tianlin Li</font>, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, Yang Liu,  Perception-guided jailbreak against text-to-image models <b>AAAI 2025</b>.
+</p>
+
+
+<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; Yanxin Yang, Chentao Jia, Dengke Yan, Ming Hu, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Xian Wei, and Mingsong Chen,  SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification <b>NeurIPS 2024</b>.
 </p>
 
