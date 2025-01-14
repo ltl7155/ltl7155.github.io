@@ -150,7 +150,7 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/files/pubs/2022-issta-equafl.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[AAAI 2024]</b> <font color="red">oral</font> Ming Hu, Yue Cao, Anran Li, Zhiming Li, Chengwei Liu, <font color="blue">Tianlin Li</font>, Mingsong Chen, Yang Liu. FedMut: Generalized Federated Learning via Stochastic Mutation.
+<a class="media" href="https://ltl7155.github.io/files/pubs/2022-issta-equafl.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[AAAI 2024</b> <font color="red">oral</font><b>]</b>  Ming Hu, Yue Cao, Anran Li, Zhiming Li, Chengwei Liu, <font color="blue">Tianlin Li</font>, Mingsong Chen, Yang Liu. FedMut: Generalized Federated Learning via Stochastic Mutation.
 </p>
 
 <p>
