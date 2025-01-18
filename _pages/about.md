@@ -22,6 +22,7 @@ My research is centered on developing trustworthy intelligent software, particul
 # News
 
 ---
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2024: Our paper, "Perception-Guided Jailbreak Against Text-to-Image Models," has been selected for an oral presentation at AAAI 2025.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation" is accepted by TOSEM 2025. 
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2024: Our paper "Towards Trustworthy LLMs for Code: A Data-Centric Synergistic Auditing Framework" is accepted by ICSE 2025 NIER track. 
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2024: Our paper "Perception-guided jailbreak against text-to-image models" is accepted by AAAI 2025. 
