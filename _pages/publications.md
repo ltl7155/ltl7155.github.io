@@ -36,7 +36,7 @@ Liu, Qing Guo#. On the robustness of segment anything.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[AAAI 2025]</b> Yihao Huang, Le Liang, <font color="blue">Tianlin Li</font>, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, Yang Liu,  Perception-guided jailbreak against text-to-image models.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[AAAI 2025</b> <font color="red">oral</font><b>]</b> Yihao Huang, Le Liang, <font color="blue">Tianlin Li</font>, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, Yang Liu,  Perception-guided jailbreak against text-to-image models.
 </p>
 
 <p>
