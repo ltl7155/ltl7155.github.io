@@ -12,6 +12,7 @@ redirect_from:
 
 ## Journals
 
+- Reviewer of Transactions on Software Engineering (TSE)
 - Reviewer of IEEE Transactions on Image Processing (TIP)
 - Reviewer of Pattern Recognition (PR)
 - Reviewer of Neurocomputing
