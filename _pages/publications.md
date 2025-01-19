@@ -36,10 +36,6 @@ Liu, Qing Guo#. On the robustness of segment anything.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Lili Quan, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Zhenpeng Chen, Xiaofei Xie, Sen Chen, Lingxiao Jiang, Xiaohong Li, Dissecting Global Search: A Simple Yet Effective Method to Boost Individual Discrimination Testing and Repair.
-</p>
-
-<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Yisong Xiao, Aishan Liu, Xinwei Zhang, Tianyuan Zhang, <font color="blue">Tianlin Li</font>, Siyuan Liang, Xianglong Liu, Yang Liu, Dacheng Tao,  BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks.
 </p>
 
@@ -87,7 +83,9 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ### AI Fairness: 
 ---
 
-
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Lili Quan, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Zhenpeng Chen, Xiaofei Xie, Sen Chen, Lingxiao Jiang, Xiaohong Li, Dissecting Global Search: A Simple Yet Effective Method to Boost Individual Discrimination Testing and Repair.
+</p>
 
 <p>
 <a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> <font color="blue">Tianlin Li*</font>, Xiaoyu Zhang*, Chao Du, Tianyu Pang, Qian Liu, Qing Guo, Chao Shen, Yang Liu. Your Large Language Model is Secretly a Fairness Proponent and You Should Prompt it Like One.
