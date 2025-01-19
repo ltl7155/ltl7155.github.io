@@ -11,8 +11,8 @@ redirect_from:
 ---
 
 ## Journals
-
-- Reviewer of Transactions on Software Engineering (TSE)
+- Reviewer of ACM Transactions on Software Engineering and Methodology (TOSEM)
+- Reviewer of IEEE Transactions on Software Engineering (TSE)
 - Reviewer of IEEE Transactions on Image Processing (TIP)
 - Reviewer of Pattern Recognition (PR)
 - Reviewer of Neurocomputing
