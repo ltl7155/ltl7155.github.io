@@ -32,8 +32,13 @@ Liu, Qing Guo#. On the robustness of segment anything.
 </p>
 
 <p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[USENIX Security 2025]</b> Jiachen Zhou, Mingsi Wang, <font color="blue">Tianlin Li</font>, Guozhu Meng, Kai Chen, Dormant: Defending against Pose-driven Human Image Animation.
+</p>
+
+<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Shide Zhou, <font color="blue">Tianlin Li</font>, Kailong Wang, Yihao Huang, Ling Shi, Yang Liu, Haoyu Wang, Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks.
 </p>
+
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Yisong Xiao, Aishan Liu, Xinwei Zhang, Tianyuan Zhang, <font color="blue">Tianlin Li</font>, Siyuan Liang, Xianglong Liu, Yang Liu, Dacheng Tao,  BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks.
@@ -146,6 +151,9 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ### Interpretability and Its Applications:
 ---
 
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICLR 2025]</b> Xiaoyu Zhang, Juan Zhai, Shiqing Ma, Chao Shen,<font color="blue">Tianlin Li</font>, Weipeng Jiang, Yang Liu. Speculative Coreset Selection for Task-Specific Fine-tuning.
+</p>
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[EMSOFT 2024, TCAD]</b> Zeke Xia, Ming Hu, Dengke Yan, Xiaofei Xie, <font color="blue">Tianlin Li</font>, Anran Li, Junlong Zhou, and Mingsong Chen.  CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance.
