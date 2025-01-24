@@ -19,7 +19,7 @@ My research is centered on developing trustworthy intelligent software, particul
 - Trustworthy Code Intelligence: [[TOSEM 2025]](https://arxiv.org/abs/2401.06391), [[ICSE NEIR 2025]](https://arxiv.org/abs/2410.09048), [[ASE 2024]](https://dl.acm.org/doi/10.1145/3691620.3695555), [[Coling 2024]](https://arxiv.org/abs/2201.07381), [[ASE 2023]](https://ieeexplore.ieee.org/document/10298289)
 - Interpretability and Its Applications: [[ICLR 2025]](https://arxiv.org/abs/2410.01296), [[TCAD 2024]](https://arxiv.org/abs/2404.12850), [[ICML 2024]](https://openreview.net/forum?id=JObct1zyTb), [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/29146), [[ICLR 2020]](https://arxiv.org/abs/1908.01581)
 
- <font color="blue">I am currently focused on <b>training code LLMs to integrate more SE knowledge</b>. I welcome feedback, support, or collaboration opportunities from others in the field to help refine and advance this work further.</font>
+ <font color="blue">I am currently focusing on <b>training code LLMs to integrate more SE knowledge</b>. I welcome feedback, support, or collaboration opportunities from others in the field to help refine and advance this work further.</font>
 
 
 
