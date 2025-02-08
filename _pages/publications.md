@@ -36,7 +36,7 @@ Liu, Qing Guo#. On the robustness of segment anything.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Shide Zhou, <font color="blue">Tianlin Li</font>, Kailong Wang, Yihao Huang, Ling Shi, Yang Liu, Haoyu Wang, Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Shide Zhou, <font color="blue">Tianlin Li#</font>, Kailong Wang#, Yihao Huang, Ling Shi, Yang Liu, Haoyu Wang, Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks.
 </p>
 
 
@@ -62,7 +62,7 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 </p>
 
 <p>
-<a class="media" href="https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-cen" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  <b>[TMM 2024]</b> Zixin Yin*, Jiakai Wang*, Yisong Xiao, Hanqing Zhao, <font color="blue">Tianlin Li</font>, Wenbo Zhou, Aishan Liu, and Xianglong Liu. Improving Deepfake Detection Generalization by Invariant Risk Minimization.
+<a class="media" href="https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-cen" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  <b>[TMM 2024]</b> Zixin Yin, Jiakai Wang, Yisong Xiao, Hanqing Zhao, <font color="blue">Tianlin Li</font>, Wenbo Zhou, Aishan Liu, and Xianglong Liu. Improving Deepfake Detection Generalization by Invariant Risk Minimization.
 </p>
 
 <p>
@@ -89,11 +89,11 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ---
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Lili Quan, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Zhenpeng Chen, Xiaofei Xie, Sen Chen, Lingxiao Jiang, Xiaohong Li, Dissecting Global Search: A Simple Yet Effective Method to Boost Individual Discrimination Testing and Repair.
+<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> <font color="blue">Tianlin Li*</font>, Xiaoyu Zhang*, Chao Du, Tianyu Pang, Qian Liu, Qing Guo, Chao Shen, Yang Liu. Your Large Language Model is Secretly a Fairness Proponent and You Should Prompt it Like One.
 </p>
 
 <p>
-<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> <font color="blue">Tianlin Li*</font>, Xiaoyu Zhang*, Chao Du, Tianyu Pang, Qian Liu, Qing Guo, Chao Shen, Yang Liu. Your Large Language Model is Secretly a Fairness Proponent and You Should Prompt it Like One.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Lili Quan, <font color="blue">Tianlin Li#</font>, Xiaofei Xie, Zhenpeng Chen, Xiaofei Xie, Sen Chen, Lingxiao Jiang, Xiaohong Li#, Dissecting Global Search: A Simple Yet Effective Method to Boost Individual Discrimination Testing and Repair.
 </p>
 
 <p>
