@@ -26,8 +26,8 @@ My research is centered on developing trustworthy intelligent software, particul
 # News
 
 ---
-- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "NeuSemSlice: Towards Effective DNN Model Maintenance via Neuron-level Semantic Slicing" is accepted by TOSEM 2025.
-- - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "JailGuard: A Universal Detection Framework for Prompt-based Attacks on LLM Systems" is accepted by TOSEM 2025.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Mar 2025: Our paper "NeuSemSlice: Towards Effective DNN Model Maintenance via Neuron-level Semantic Slicing" is accepted by TOSEM 2025.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Mar 2025: Our paper "JailGuard: A Universal Detection Framework for Prompt-based Attacks on LLM Systems" is accepted by TOSEM 2025.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "Dormant: Defending against Pose-driven Human Image Animation" is accepted by USENIX Security 2025.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "Speculative Coreset Selection for Task-Specific Fine-tuning" is accepted by ICLR 2025.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks" is accepted by ICSE 2025.
