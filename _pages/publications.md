@@ -21,14 +21,15 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> <font color="blue">Tianlin Li</font>, Qian Liu, Tianyu Pang, Chao Du, Qing Guo, Yang Liu, Min Lin. Purifying Large Language Models by Ensembling a Small Language Model.
 </p>
 
-<p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> Xiaoyu Zhang, Cen Zhang, <font color="blue">Tianlin Li</font>, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
-Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection.
-</p>
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> Yihao Huang, Yue Cao, <font color="blue">Tianlin Li#</font>, Felix Juefei-Xu, Di Lin, Ivor W Tsang, Yang
 Liu, Qing Guo#. On the robustness of segment anything.
+</p>
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TOSEM 2025]</b> Xiaoyu Zhang, Cen Zhang, <font color="blue">Tianlin Li</font>, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
+Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection.
 </p>
 
 <p>
@@ -150,6 +151,11 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 
 ### Interpretability and Its Applications:
 ---
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICLR 2025]</b> Shide Zhou,<font color="blue">Tianlin Li#</font>, Yihao Huang, Ling Shi, Kailong Wang#, Yang Liu, Haoyu Wang. NeuSemSlice: Towards Effective DNN Model Maintenance via Neuron-level Semantic Slicing.
+</p>
+
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICLR 2025]</b> Xiaoyu Zhang, Juan Zhai, Shiqing Ma, Chao Shen,<font color="blue">Tianlin Li</font>, Weipeng Jiang, Yang Liu. Speculative Coreset Selection for Task-Specific Fine-tuning.
