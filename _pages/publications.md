@@ -153,7 +153,7 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ---
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICLR 2025]</b> Shide Zhou,<font color="blue">Tianlin Li#</font>, Yihao Huang, Ling Shi, Kailong Wang#, Yang Liu, Haoyu Wang. NeuSemSlice: Towards Effective DNN Model Maintenance via Neuron-level Semantic Slicing.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TOSEM 2025]</b> Shide Zhou,<font color="blue">Tianlin Li#</font>, Yihao Huang, Ling Shi, Kailong Wang#, Yang Liu, Haoyu Wang. NeuSemSlice: Towards Effective DNN Model Maintenance via Neuron-level Semantic Slicing.
 </p>
 
 
