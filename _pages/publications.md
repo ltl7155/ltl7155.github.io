@@ -23,8 +23,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> Yihao Huang, Yue Cao, <font color="blue">Tianlin Li#</font>, Felix Juefei-Xu, Di Lin, Ivor W Tsang, Yang
-Liu, Qing Guo#. On the robustness of segment anything.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> Yihao Huang, Yue Cao, <font color="blue">Tianlin Li#</font>, Felix Juefei-Xu, Di Lin, Ivor W Tsang, Yang Liu, Qing Guo#. On the robustness of segment anything.
+</p>
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TOSEM 2025]</b> Aishan Liu, Yuguang Zhou, Xianglong Liu, Tianyuan Zhang, Siyuan Liang, Jiakai Wang, Yanjun Pu, <font color="blue">Tianlin Li#</font>, Junqi Zhang, Wenbo Zhou, Qing Guo, Dacheng Tao. Compromising Embodied Agents with Contextual Backdoor Attacks.
 </p>
 
 <p>
