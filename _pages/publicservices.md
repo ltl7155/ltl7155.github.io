@@ -15,10 +15,12 @@ redirect_from:
 - Reviewer of ACM Transactions on Software Engineering and Methodology (TOSEM)
 - Reviewer of IEEE Transactions on Software Engineering (TSE)
 - Reviewer of IEEE Transactions on Image Processing (TIP)
+- Reviewer of ACM Transactions on Privacy and Security (ToPS)
+- Reviewer of Journal of Software: Evolution and Process
 - Reviewer of Pattern Recognition (PR)
 - Reviewer of Neurocomputing
 - Reviewer of IEEE Internet of Things Journal (IoT)
-- Reviewer of ACM Transactions on Privacy and Security (ToPS)
+
 
 ## Conferences
 
