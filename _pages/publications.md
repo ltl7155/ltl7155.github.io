@@ -98,7 +98,7 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 </p>
 
 <p>
-<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[FSE 2025]</b> Zhenpeng Chen, Xinyue Li, Jie M. Zhang, Weisong Sun, Ying Xiao, <font color="blue">Tianlin Li</font>,, Yiling Lou, Yang Liu.
+<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[FSE 2025]</b> Zhenpeng Chen, Xinyue Li, Jie M. Zhang, Weisong Sun, Ying Xiao, <font color="blue">Tianlin Li</font>,, Yiling Lou, Yang Liu.  Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?
 </p>
 
 <p>
