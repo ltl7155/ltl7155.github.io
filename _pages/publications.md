@@ -92,8 +92,13 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ### AI Fairness: 
 ---
 
+
 <p>
 <a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> <font color="blue">Tianlin Li*</font>, Xiaoyu Zhang*, Chao Du, Tianyu Pang, Qian Liu, Qing Guo, Chao Shen, Yang Liu. Your Large Language Model is Secretly a Fairness Proponent and You Should Prompt it Like One.
+</p>
+
+<p>
+<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[FSE 2025]</b> Zhenpeng Chen, Xinyue Li, Jie M. Zhang, Weisong Sun, Ying Xiao, <font color="blue">Tianlin Li</font>,, Yiling Lou, Yang Liu.
 </p>
 
 <p>
