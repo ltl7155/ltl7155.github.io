@@ -7,7 +7,8 @@ redirect_from:
   - /awards
   - /awards.html
 ---
-- [2024] **Top Reviewers for NeurIPS 2024 (1304/15160 8.6%)**
+- [2025] **Best Reviewer for AISTATS 2025**
+- [2024] **Top Reviewer for NeurIPS 2024 (1304/15160 8.6%)**
 - [2024] **DAAD AInet Fellowship**, Awarded by DAAD, Germany.
 - [2022] **3rd place in the AISG Trusted Media Challenge with 25K SGD cash prize**, Awarded by AI Singapore.
 - [2021-2024] **AISG PhD Fellowship**, Awarded by AI Singapore.
