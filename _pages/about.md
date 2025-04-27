@@ -26,6 +26,7 @@ My research is centered on developing trustworthy intelligent software, particul
 # News
 
 ---
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2025: I have been selected as one of the best reviewers for AISTATS 2025.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2025: Our paper "Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?" is accepted by FSE 2025.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Mar 2025: Our paper "Compromising embodied agents with contextual backdoor attacks" is accepted by TIFS 2025.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Mar 2025: Our paper "NeuSemSlice: Towards Effective DNN Model Maintenance via Neuron-level Semantic Slicing" is accepted by TOSEM 2025.
