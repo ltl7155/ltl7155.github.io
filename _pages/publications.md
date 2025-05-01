@@ -27,6 +27,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </p>
 
 <p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICML 2025]</b> Qi Zhou, <font color="blue">Tianlin Li</font>, Qing Guo, Dongxia Wang, Yun Lin, Yang Liu, Jin Song Dong. Defending LVLMs Against Vision Attacks through Partial-Perception Supervision.
+</p>
+
+
+<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TIFS 2025]</b> Aishan Liu, Yuguang Zhou, Xianglong Liu, Tianyuan Zhang, Siyuan Liang, Jiakai Wang, Yanjun Pu, <font color="blue">Tianlin Li</font>, Junqi Zhang, Wenbo Zhou, Qing Guo, Dacheng Tao. Compromising Embodied Agents with Contextual Backdoor Attacks.
 </p>
 
