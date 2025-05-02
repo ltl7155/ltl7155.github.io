@@ -24,7 +24,7 @@ redirect_from:
 
 ## Conferences
 
-- Reviewers of ICML, NeurIPS, ICLR, AAAI, ICCV, CVPR, IJCAI, AISTATS
+- Reviewers of ICML, NeurIPS, ICLR, AAAI, ICCV, CVPR, IJCAI, AISTATS, MM
 
 ## Workshops
 - Challenge Chair of The Art of Robustness: Devil and Angel in Adversarial Machine Learning at CVPR 2022
