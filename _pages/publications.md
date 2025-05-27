@@ -27,7 +27,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICML 2025]</b> Qi Zhou, <font color="blue">Tianlin Li</font>, Qing Guo, Dongxia Wang, Yun Lin, Yang Liu, Jin Song Dong. Defending LVLMs Against Vision Attacks through Partial-Perception Supervision.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICML 2025]</b> Qi Zhou, Dongxia Wang#, <font color="blue">Tianlin Li#</font>, Yun Lin, Yang Liu, Jin Song Dong, Qing Guo. Defending LVLMs Against Vision Attacks through Partial-Perception Supervision.
 </p>
 
 
