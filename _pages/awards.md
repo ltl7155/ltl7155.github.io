@@ -7,6 +7,7 @@ redirect_from:
   - /awards
   - /awards.html
 ---
+- [2025] **Chinese Government Award for Outstanding Self-Financed Students**.
 - [2025] **Best Reviewer for AISTATS 2025**.
 - [2024] **Top Reviewer for NeurIPS 2024 (1304/15160 8.6%)**.
 - [2024] **DAAD AInet Fellowship**, Awarded by DAAD, Germany.
