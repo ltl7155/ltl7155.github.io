@@ -203,6 +203,9 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;<b>[ICLR 2020]</b>  Ruofan Liang*, <font color="blue">Tianlin Li*</font>, Longfei Li, Jing Wang, Quanshi Zhang. Knowledge consistency between neural networks.
 </p>
 
+### Others:
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[全国抗恶劣环境计算机第二十八届学术年会]<font color="red">最佳论文</font></b>  李恬霖; 杨宏伟; 马殿富. CPU流水线通路结构形式验证方法与实现.
+
 
 
 ---
