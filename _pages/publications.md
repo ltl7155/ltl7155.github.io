@@ -27,6 +27,15 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </p>
 
 <p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICECCS 2025 Position]</b> <font color="blue">Tianlin Li</font>, Qiang Hu#, Chong Wang, Jian Zhang, Wei Ma, Aishan Liu, Jingyi Wang, Yang Liu. An Analytical Perspective on Software Engineering for Large Language Models.
+</p>
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICML 2025 Workshop]</b>Zeming Wei, <font color="blue">Tianlin Li</font>, Xiaojun Jia, Yihao Zhang, Yang Liu, Meng Sun. Position: Agent-specific trustworthiness risk as a research priority.
+</p>
+
+
+<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICML 2025]</b> Qi Zhou, Dongxia Wang#, <font color="blue">Tianlin Li#</font>, Yun Lin, Yang Liu, Jin Song Dong, Qing Guo. Defending LVLMs Against Vision Attacks through Partial-Perception Supervision.
 </p>
 
@@ -59,6 +68,10 @@ Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[NeurIPS 2024]</b> Yanxin Yang, Chentao Jia, Dengke Yan, Ming Hu, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Xian Wei, and Mingsong Chen,  SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification.
+</p>
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Forge 2024]</b> Guanyu Wang, Yuekang Li, Yi Liu, Gelei Deng, <font color="blue">Tianlin Li</font>, Guosheng Xu, Yang Liu, Haoyu Wang, Kailong Wang. Metmap: Metamorphic testing for detecting false vector matching problems in LLM augmented generation.
 </p>
 
 <p>
