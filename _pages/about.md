@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I'm a research student at the School of Computer Science and Engineering at Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/). 
+I'm a research fellow at the CCDS at Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/). 
 I have been awarded the AISG PhD Fellowship and the DAAD AInet Fellowship, along with third place in the AISG Trusted Media Challenge, receiving a cash prize of 25,000 SGD. I feel fortunate to have the opportunity to work with Tianyu Pang, Chao Du, Qian Liu, and Min Lin at Sea AI Lab.
 
 My research focuses on developing trustworthy AI software, a direction at the intersection of AI and Software Engineering. 
