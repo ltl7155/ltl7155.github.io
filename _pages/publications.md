@@ -27,6 +27,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </p>
 
 <p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TDSC 2025]</b> Qi Zhou, Dongxia Wang, <font color="blue">Tianlin Li</font>, Zhihong Xu, Yang Liu, Kui Ren, Wenhai Wang, Qing Guo. Foolsdedit: Deceptively steering your edits towards targeted attribute-aware distribution.
+</p>
+
+
+<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICECCS 2025 Position]</b> <font color="blue">Tianlin Li</font>, Qiang Hu#, Chong Wang, Jian Zhang, Wei Ma, Aishan Liu, Jingyi Wang, Yang Liu. An Analytical Perspective on Software Engineering for Large Language Models.
 </p>
 
