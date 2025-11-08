@@ -25,6 +25,7 @@ My research on AI software trustworthiness spans three levels: AI infrastructure
 # News
 
 ---
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Nov 2024: We won the championship in the NTU 2025 Staff 3x3 Basketball Tournament and the championship in the 2025 Zhejiang Lab Basketball Event.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Oct 2025: Our paper "Foolsdedit: Deceptively steering your edits towards targeted attribute-aware distribution" is accepted by TDSC 2025.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; June 2025: I have been awarded the Chinese Government Award for Outstanding Self-Financed Students.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; May 2025: Our paper "Defending LVLMs Against Vision Attacks through Partial-Perception Supervision" is accepted by ICML 2025.
