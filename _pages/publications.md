@@ -155,7 +155,9 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ### Trustworthy Code Intelligence: 
 ---
 
-
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE NIER 2026]</b> Jingyao Zhang, <font color="blue">Tianlin Li</font>, Xiaoyu Zhang, Qiang Hu, Bin Shi, Unveiling the Potential of Diffusion Large Language Models in Software Engineering Tasks: An Empirical Study.
+</p>
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TOSEM 2025]</b> Chong Wang, Jian Zhang, Yebo Feng, <font color="blue">Tianlin Li</font>, Weisong Sun, Yang Liu, Xin Peng,  Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation.
