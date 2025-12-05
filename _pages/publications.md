@@ -156,7 +156,7 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ---
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE NIER 2026]</b> Jingyao Zhang, <font color="blue">Tianlin Li*</font>, Xiaoyu Zhang, Qiang Hu, Bin Shi*, Unveiling the Potential of Diffusion Large Language Models in Software Engineering Tasks: An Empirical Study.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE NIER 2026]</b> Jingyao Zhang, <font color="blue">Tianlin Li#</font>, Xiaoyu Zhang, Qiang Hu, Bin Shi#, Unveiling the Potential of Diffusion Large Language Models in Software Engineering Tasks: An Empirical Study.
 </p>
 
 <p>
