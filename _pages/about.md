@@ -25,6 +25,7 @@ My research on AI software trustworthiness spans three levels: AI infrastructure
 # News
 
 ---
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2025: Our paper "A survey on physical adversarial attacks against face recognition systems" is accepted by Neurocomputing.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2025: Our paper "Unveiling the Potential of Diffusion Large Language Models in
 Software Engineering Tasks: An Empirical Study" is accepted by ICSE 2026 NIER.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Nov 2025: We won the championship in the NTU 2025 Staff 3x3 Basketball Tournament and the championship in the 2025 Zhejiang Lab Basketball Event.
