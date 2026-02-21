@@ -18,8 +18,9 @@ redirect_from:
 - Reviewer of ACM Transactions on Privacy and Security (ToPS)
 - Reviewer of Journal of Software: Evolution and Process
 - Reviewer of Pattern Recognition (PR)
+- Reviewer of IEEE Transactions on Big Data
 - Reviewer of Neurocomputing
-- Reviewer of IEEE Internet of Things Journal (IoT)
+- Reviewer of IEEE Internet of Things Journal
 
 
 ## Conferences
