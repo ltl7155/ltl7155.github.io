@@ -15,7 +15,7 @@ I have been awarded the AISG PhD Fellowship and the DAAD AInet Fellowship, along
 
 My goal is to develop self-healing (immunity-inspired) agents in the context of edge intelligence, with the primary aim of ensuring agent security in an automated and continuously evolving manner.
 
-Existing research in this area largely treats AI models as isolated systems, focusing primarily on vulnerabilities inherent to the models themselves while overlooking the role of the underlying infrastructure. In contrast, my research investigates security issues arising from faults in the AI software stack. For example, bugs at this level can lead to unexpected model behavior, such as failure to reduce training loss or degraded robustness during inference. Therefore, my work jointly considers both AI agents and the supporting software stack.
+Existing research in this area largely treats AI models/agents as isolated systems, focusing primarily on vulnerabilities inherent to the models/agents themselves while overlooking the role of the underlying infrastructure. In contrast, my research investigates security issues arising from faults in the AI software stack. For example, bugs at this level can lead to unexpected model behavior, such as failure to reduce training loss or degraded robustness during inference. Therefore, my work jointly considers both AI agents and the supporting software stack.
 
 Ultimately, I aim to extend this line of research to enable trustworthy AI systems for satellites and deep-space devices.
 
