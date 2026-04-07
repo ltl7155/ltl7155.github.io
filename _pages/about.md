@@ -13,16 +13,27 @@ redirect_from:
 I'm an Associate Professor at the School of Computer Science and Engineering, Beihang University, in [Prof. Liu Xianglong’s team](https://xlliu-beihang.github.io/). Previously, I was a research fellow at the CCDS, Nanyang Technological University, under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/). 
 I have been awarded the AISG PhD Fellowship and the DAAD AInet Fellowship, along with third place in the AISG Trusted Media Challenge, receiving a cash prize of 25,000 SGD. I feel fortunate to have the opportunity to work with Tianyu Pang, Chao Du, Qian Liu, and Min Lin at Sea AI Lab.
 
+My goal is to develop self-healing (immunity-inspired) agents in the context of edge intelligence, with the primary aim of ensuring agent security in an automated and continuously evolving manner.
+
+Existing research in this area largely treats AI models as isolated systems, focusing primarily on vulnerabilities inherent to the models themselves while overlooking the role of the underlying infrastructure. In contrast, my research investigates security issues arising from faults in the AI software stack. For example, bugs at this level can lead to unexpected model behavior, such as failure to reduce training loss or degraded robustness during inference. Therefore, my work jointly considers both AI agents and the supporting software stack.
+
+Ultimately, I aim to extend this line of research to enable trustworthy AI systems for satellites and deep-space devices.
+
 My research：
 - AI Security: [[TDSC 2025]](https://arxiv.org/pdf/2402.03705), [[ICML 2025]](https://arxiv.org/abs/2412.12722), [[TIFS 2025]](https://arxiv.org/abs/2408.02882), [[TOSEM 2025]](https://arxiv.org/abs/2312.10766), [[USENIX Security 2025]](https://arxiv.org/abs/2409.14424), [[ICSE 2025]](https://arxiv.org/abs/2408.15207), [[ICSE 2025]](https://arxiv.org/abs/2412.00746), [[AAAI 2025]](https://arxiv.org/abs/2408.10848), [[NeurIPS 2024]](https://ink.library.smu.edu.sg/sis_research/9812/), [[ICLR 2024]](https://arxiv.org/abs/2403.13355), [[ICLR 2024]](https://arxiv.org/abs/2310.11890), [[TMM 2024]](https://ieeexplore.ieee.org/document/10409578), [[AAAI 2024]](https://arxiv.org/abs/2305.10701), [[TOSEM 2021]](https://dl.acm.org/doi/10.1145/3490489), [[ISCI 2020]](https://www.sciencedirect.com/science/article/pii/S0020025520308124), [[TIP 2020]](https://arxiv.org/abs/1909.06978), [[FSE 2025]](), [[ICSE 2025]](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/216/Dissecting-Global-Search-A-Simple-yet-Effective-Method-to-Boost-Individual-Discrimin), [[ICSE 2024]](https://dl.acm.org/doi/10.1145/3597503.3623334), [[TOSEM 2023]](https://dl.acm.org/doi/10.1145/3617168), [[ICML 2023]](https://arxiv.org/abs/2306.15299), [[IJCAI 2023]](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/49), [[ISSTA 2023]](https://arxiv.org/abs/2305.11602)
+Interpretability and Its Applications: [[TOSEM 2025]](https://arxiv.org/pdf/2407.20281v1), [[ICLR 2025]](https://arxiv.org/abs/2410.01296), [[TCAD 2024]](https://arxiv.org/abs/2404.12850), [[ICML 2024]](https://openreview.net/forum?id=JObct1zyTb), [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/29146), [[ICLR 2020]](https://arxiv.org/abs/1908.01581)
 - Trustworthy Code Intelligence: [[ICSE NIER 2026]](https://arxiv.org/abs/2510.04605), [[TOSEM 2025]](https://arxiv.org/abs/2401.06391), [[ICSE NEIR 2025]](https://arxiv.org/abs/2410.09048), [[ASE 2024]](https://dl.acm.org/doi/10.1145/3691620.3695555), [[Coling 2024]](https://arxiv.org/abs/2201.07381), [[ASE 2023]](https://ieeexplore.ieee.org/document/10298289)
-- Interpretability and Its Applications: [[TOSEM 2025]](https://arxiv.org/pdf/2407.20281v1), [[ICLR 2025]](https://arxiv.org/abs/2410.01296), [[TCAD 2024]](https://arxiv.org/abs/2404.12850), [[ICML 2024]](https://openreview.net/forum?id=JObct1zyTb), [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/29146), [[ICLR 2020]](https://arxiv.org/abs/1908.01581)
+
 
 
 
 # News
 
 ---
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2026: Our paper "OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning" is accepted by ACL 2026.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2026: Our paper "Uncovering Strategic Egoism Behaviors in Large Language Models" is accepted by ACL Findings 2026.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2026: Our paper "Fairness Testing of Large Language Models in Role-Playing" is accepted by FSE 2026.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Mar 2026: Our paper "Verify Claimed Text-to-Image Models via Boundary-Aware Prompt Optimization" is accepted by CVPR Findings 2026.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2025: Our paper "A survey on physical adversarial attacks against face recognition systems" is accepted by Neurocomputing.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2025: Our paper "Unveiling the Potential of Diffusion Large Language Models in
 Software Engineering Tasks: An Empirical Study" is accepted by ICSE 2026 NIER.
