@@ -34,6 +34,7 @@ Interpretability and Its Applications: [[TOSEM 2025]](https://arxiv.org/pdf/2407
 # News
 
 ---
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2026: Our paper "Learn by Analogy: Distribution-aware Fuzz Testing for DNNs via Cross-Modal Generation" is accepted by TASE 2026.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2026: Our paper "OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning" is accepted by ACL 2026.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2026: Our paper "Uncovering Strategic Egoism Behaviors in Large Language Models" is accepted by ACL Findings 2026.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; April 2026: Our paper "Fairness Testing of Large Language Models in Role-Playing" is accepted by FSE 2026.
