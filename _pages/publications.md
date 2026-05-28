@@ -18,15 +18,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ---
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> <font color="blue">Tianlin Li</font>, Qian Liu, Tianyu Pang, Chao Du, Qing Guo, Yang Liu, Min Lin. Purifying Large Language Models by Ensembling a Small Language Model.
-</p>
-
-
-<p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> Yihao Huang, Yue Cao, <font color="blue">Tianlin Li#</font>, Felix Juefei-Xu, Di Lin, Ivor W Tsang, Yang Liu, Qing Guo#. On the robustness of segment anything.
-</p>
-
-<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Neurocomputing 2025]</b> Mingsi Wang, Jiachen Zhou, <font color="blue">Tianlin Li</font>, Guozhu Meng, Kai Chen. A survey on physical adversarial attacks against face recognition systems.
 </p>
 
@@ -121,9 +112,6 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ---
 
 
-<p>
-<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Preprint]</b> <font color="blue">Tianlin Li*</font>, Xiaoyu Zhang*, Chao Du, Tianyu Pang, Qian Liu, Qing Guo, Chao Shen, Yang Liu. Your Large Language Model is Secretly a Fairness Proponent and You Should Prompt it Like One.
-</p>
 
 <p>
 <a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[FSE 2025]</b> Zhenpeng Chen, Xinyue Li, Jie M. Zhang, Weisong Sun, Ying Xiao, <font color="blue">Tianlin Li</font>, Yiling Lou, Yang Liu.  Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?
