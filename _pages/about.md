@@ -52,7 +52,7 @@ Software Engineering Tasks: An Empirical Study" is accepted by ICSE 2026 NIER.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "Speculative Coreset Selection for Task-Specific Fine-tuning" is accepted by ICLR 2025.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks" is accepted by ICSE 2025.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "Dissecting Global Search: A Simple yet Effective Method to Boost Individual Discrimination Testing and Repair" is accepted by ICSE 2025.
-- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper, "Perception-Guided Jailbreak Against Text-to-Image Models," has been selected for an oral presentation at AAAI 2025.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper, "Perception-Guided Jailbreak Against Text-to-Image Models," has been selected for an oral presentation at AAAI 2025 <font color="blue">(oral)</font>.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation" is accepted by TOSEM 2025. 
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2024: Our paper "Towards Trustworthy LLMs for Code: A Data-Centric Synergistic Auditing Framework" is accepted by ICSE 2025 NIER track. 
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Dec 2024: Our paper "Perception-guided jailbreak against text-to-image models" is accepted by AAAI 2025. 
