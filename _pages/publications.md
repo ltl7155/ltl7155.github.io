@@ -27,7 +27,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ACL 2026 <font color="red">oral</font>]</b> Sheng Chen, TangZhe, Weixing Zhang, Fei Yang, Yuanyuan Wang, <font color="blue">Tianlin Li</font>, Yang Liu. OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)ACL 2026 <font color="red">oral</font>]</b> Sheng Chen, TangZhe, Weixing Zhang, Fei Yang, Yuanyuan Wang, <font color="blue">Tianlin Li</font>, Yang Liu. OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning.
 </p>
 
 <p>
@@ -45,7 +45,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TDSC 2025]</b> Qi Zhou, Dongxia Wang, <font color="blue">Tianlin Li</font>, Zhihong Xu, Yang Liu, Kui Ren, Wenhai Wang, Qing Guo. Foolsdedit: Deceptively steering your edits towards targeted attribute-aware distribution.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)TDSC 2025]</b> Qi Zhou, Dongxia Wang, <font color="blue">Tianlin Li</font>, Zhihong Xu, Yang Liu, Kui Ren, Wenhai Wang, Qing Guo. Foolsdedit: Deceptively steering your edits towards targeted attribute-aware distribution.
 </p>
 
 
@@ -59,38 +59,38 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICML 2025]</b> Qi Zhou, Dongxia Wang#, <font color="blue">Tianlin Li#</font>, Yun Lin, Yang Liu, Jin Song Dong, Qing Guo. Defending LVLMs Against Vision Attacks through Partial-Perception Supervision.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A main author)ICML 2025]</b> Qi Zhou, Dongxia Wang#, <font color="blue">Tianlin Li#</font>, Yun Lin, Yang Liu, Jin Song Dong, Qing Guo. Defending LVLMs Against Vision Attacks through Partial-Perception Supervision.
 </p>
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TIFS 2025]</b> Aishan Liu, Yuguang Zhou, Xianglong Liu, Tianyuan Zhang, Siyuan Liang, Jiakai Wang, Yanjun Pu, <font color="blue">Tianlin Li</font>, Junqi Zhang, Wenbo Zhou, Qing Guo, Dacheng Tao. Compromising Embodied Agents with Contextual Backdoor Attacks.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)TIFS 2025]</b> Aishan Liu, Yuguang Zhou, Xianglong Liu, Tianyuan Zhang, Siyuan Liang, Jiakai Wang, Yanjun Pu, <font color="blue">Tianlin Li</font>, Junqi Zhang, Wenbo Zhou, Qing Guo, Dacheng Tao. Compromising Embodied Agents with Contextual Backdoor Attacks.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TOSEM 2025]</b> Xiaoyu Zhang, Cen Zhang, <font color="blue">Tianlin Li</font>, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)TOSEM 2025]</b> Xiaoyu Zhang, Cen Zhang, <font color="blue">Tianlin Li</font>, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
 Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[USENIX Security 2025]</b> Jiachen Zhou, Mingsi Wang, <font color="blue">Tianlin Li</font>, Guozhu Meng, Kai Chen, Dormant: Defending against Pose-driven Human Image Animation.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)USENIX Security 2025]</b> Jiachen Zhou, Mingsi Wang, <font color="blue">Tianlin Li</font>, Guozhu Meng, Kai Chen, Dormant: Defending against Pose-driven Human Image Animation.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Shide Zhou, <font color="blue">Tianlin Li#</font>, Kailong Wang#, Yihao Huang, Ling Shi, Yang Liu, Haoyu Wang, Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A main author)ICSE 2025]</b> Shide Zhou, <font color="blue">Tianlin Li#</font>, Kailong Wang#, Yihao Huang, Ling Shi, Yang Liu, Haoyu Wang, Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks.
 </p>
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Yisong Xiao, Aishan Liu, Xinwei Zhang, Tianyuan Zhang, <font color="blue">Tianlin Li</font>, Siyuan Liang, Xianglong Liu, Yang Liu, Dacheng Tao,  BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)ICSE 2025]</b> Yisong Xiao, Aishan Liu, Xinwei Zhang, Tianyuan Zhang, <font color="blue">Tianlin Li</font>, Siyuan Liang, Xianglong Liu, Yang Liu, Dacheng Tao,  BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[AAAI 2025</b> <font color="red">oral</font><b>]</b> Yihao Huang, Le Liang, <font color="blue">Tianlin Li</font>, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, Yang Liu,  Perception-guided jailbreak against text-to-image models.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)AAAI 2025</b> <font color="red">oral</font><b>]</b> Yihao Huang, Le Liang, <font color="blue">Tianlin Li</font>, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, Yang Liu,  Perception-guided jailbreak against text-to-image models.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[NeurIPS 2024]</b> Yanxin Yang, Chentao Jia, Dengke Yan, Ming Hu, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Xian Wei, and Mingsong Chen,  SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)NeurIPS 2024]</b> Yanxin Yang, Chentao Jia, Dengke Yan, Ming Hu, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Xian Wei, and Mingsong Chen,  SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification.
 </p>
 
 <p>
@@ -98,34 +98,34 @@ Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICLR 2024]</b> Yanzhou Li, <font color="blue">Tianlin Li#</font>, Kangjie Chen#, Jian Zhang, Shangqing Liu, Wenhan
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A main author)ICLR 2024]</b> Yanzhou Li, <font color="blue">Tianlin Li#</font>, Kangjie Chen#, Jian Zhang, Shangqing Liu, Wenhan
 Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Model Editing.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/files/pubs/2023-ieeesp-rengar.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICLR 2024]</b> Yue Cao, <font color="blue">Tianlin Li</font>, Xiaofeng Cao, Ivor Tsang, Yang Liu, Qing Guo. IRAD: Implicit Representation-driven Image Resampling against Adversarial Attacks.
+<a class="media" href="https://ltl7155.github.io/files/pubs/2023-ieeesp-rengar.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main)[ICLR 2024]</b> Yue Cao, <font color="blue">Tianlin Li</font>, Xiaofeng Cao, Ivor Tsang, Yang Liu, Qing Guo. IRAD: Implicit Representation-driven Image Resampling against Adversarial Attacks.
 </p>
 
 <p>
-<a class="media" href="https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-cen" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  <b>[TMM 2024]</b> Zixin Yin, Jiakai Wang, Yisong Xiao, Hanqing Zhao, <font color="blue">Tianlin Li</font>, Wenbo Zhou, Aishan Liu, and Xianglong Liu. Improving Deepfake Detection Generalization by Invariant Risk Minimization.
+<a class="media" href="https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-cen" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  <b>(CCF A)[TMM 2024]</b> Zixin Yin, Jiakai Wang, Yisong Xiao, Hanqing Zhao, <font color="blue">Tianlin Li</font>, Wenbo Zhou, Aishan Liu, and Xianglong Liu. Improving Deepfake Detection Generalization by Invariant Risk Minimization.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/files/pubs/2021-ccs-ecmo.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[AAAI 2024]</b> Yihao Huang, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Hu Ming, <font color="blue">Tianlin Li</font>, Geguang Pu, Yang Liu. Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models.
-</p>
-
-
-<p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TOSEM 2021]</b> Xiaofei Xie*, <font color="blue">Tianlin Li*</font>, Jian Wang, Lei Ma, Qing Guo, Felix Juefei-Xu, Yang Liu. Npc: Neuron path coverage via characterizing decision logic of deep neural networks.
+<a class="media" href="https://ltl7155.github.io/files/pubs/2021-ccs-ecmo.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[AAAI 2024]</b> Yihao Huang, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Hu Ming, <font color="blue">Tianlin Li</font>, Geguang Pu, Yang Liu. Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models.
 </p>
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TIP 2020]</b> Chongzhi Zhang, Aishan Liu, Xianglong Liu, Yitao Xu, Hang Yu, Yuqing Ma, <font color="blue">Tianlin Li</font>. Interpreting and improving adversarial robustness of deep neural networks with neuron sensitivity.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[TOSEM 2021]</b> Xiaofei Xie*, <font color="blue">Tianlin Li*</font>, Jian Wang, Lei Ma, Qing Guo, Felix Juefei-Xu, Yang Liu. Npc: Neuron path coverage via characterizing decision logic of deep neural networks.
+</p>
+
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[TIP 2020]</b> Chongzhi Zhang, Aishan Liu, Xianglong Liu, Yitao Xu, Hang Yu, Yuqing Ma, <font color="blue">Tianlin Li</font>. Interpreting and improving adversarial robustness of deep neural networks with neuron sensitivity.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Information Science 2020]</b> <font color="blue">Tianlin Li*</font>, Aishan Liu*, Xianglong Liu, Yitao Xu, Chongzhi Zhang, Xiaofei Xie. Understanding adversarial robustness via critical attacking route.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(Q1 main author)[Information Science 2020]</b> <font color="blue">Tianlin Li*</font>, Aishan Liu*, Xianglong Liu, Yitao Xu, Chongzhi Zhang, Xiaofei Xie. Understanding adversarial robustness via critical attacking route.
 </p>
 
 
@@ -133,35 +133,35 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ### AI Fairness: 
 ---
 <p>
-<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[FSE 2026]</b> Xinyue Li, Zhenpeng Chen, Jie M. Zhang, Ying Xiao, <font color="blue">Tianlin Li</font>, Weisong Sun, Yang Liu, Yiling Lou, Xuanzhe Liu. Fairness Testing of Large Language Models in Role-Playing.
+<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[FSE 2026]</b> Xinyue Li, Zhenpeng Chen, Jie M. Zhang, Ying Xiao, <font color="blue">Tianlin Li</font>, Weisong Sun, Yang Liu, Yiling Lou, Xuanzhe Liu. Fairness Testing of Large Language Models in Role-Playing.
 </p>
 
 <p>
-<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[FSE 2025]</b> Zhenpeng Chen, Xinyue Li, Jie M. Zhang, Weisong Sun, Ying Xiao, <font color="blue">Tianlin Li</font>, Yiling Lou, Yang Liu.  Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?
+<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[FSE 2025]</b> Zhenpeng Chen, Xinyue Li, Jie M. Zhang, Weisong Sun, Ying Xiao, <font color="blue">Tianlin Li</font>, Yiling Lou, Yang Liu.  Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE 2025]</b> Lili Quan, <font color="blue">Tianlin Li#</font>, Xiaofei Xie, Zhenpeng Chen, Xiaofei Xie, Sen Chen, Lingxiao Jiang, Xiaohong Li#, Dissecting Global Search: A Simple Yet Effective Method to Boost Individual Discrimination Testing and Repair.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[ICSE 2025]</b> Lili Quan, <font color="blue">Tianlin Li#</font>, Xiaofei Xie, Zhenpeng Chen, Xiaofei Xie, Sen Chen, Lingxiao Jiang, Xiaohong Li#, Dissecting Global Search: A Simple Yet Effective Method to Boost Individual Discrimination Testing and Repair.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/files/pubs/2021-ase-firmguide.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  <b>[ICSE 2024]</b> <font color="blue">Tianlin Li*</font>, Yue Cao*, Jian Zhang, Shiqian Zhao, Yihao Huang, Aishan Liu, Qing Guo, Yang Liu. RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness.
+<a class="media" href="https://ltl7155.github.io/files/pubs/2021-ase-firmguide.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;  <b>(CCF A main author)[ICSE 2024]</b> <font color="blue">Tianlin Li*</font>, Yue Cao*, Jian Zhang, Shiqian Zhao, Yihao Huang, Aishan Liu, Qing Guo, Yang Liu. RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TOSEM 2023]</b> <font color="blue">Tianlin Li</font>, Xiaofei Xie, Jian Wang, Qing Guo, Aishan Liu, Lei Ma, Yang Liu. Faire: Repairing Fairness of Neural Networks via Neuron Condition Synthesis.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[TOSEM 2023]</b> <font color="blue">Tianlin Li</font>, Xiaofei Xie, Jian Wang, Qing Guo, Aishan Liu, Lei Ma, Yang Liu. Faire: Repairing Fairness of Neural Networks via Neuron Condition Synthesis.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICML 2023]</b> <font color="blue">Tianlin Li</font>, Qing Guo, Aishan Liu, Mengnan Du, Zhiming Li, Yang Liu. FAIRER: FAIRNESS AS DECISION RATIONALE ALIGNMENT.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[ICML 2023]</b> <font color="blue">Tianlin Li</font>, Qing Guo, Aishan Liu, Mengnan Du, Zhiming Li, Yang Liu. FAIRER: FAIRNESS AS DECISION RATIONALE ALIGNMENT.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[IJCAI 2023]</b> <font color="blue">Tianlin Li</font>, Zhiming Li, Anran Li, Mengnan Du, Aishan Liu, Qing Guo, Guozhu Meng, Yang Liu. Fairness via Group Contribution Matching.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(main author)[IJCAI 2023]</b> <font color="blue">Tianlin Li</font>, Zhiming Li, Anran Li, Mengnan Du, Aishan Liu, Qing Guo, Guozhu Meng, Yang Liu. Fairness via Group Contribution Matching.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ISSTA 2023]</b> Yisong Xiao, Aishan Liu, <font color="blue">Tianlin Li</font>, Xianglong Liu. Latent Imitator: Generating Natural Individual Discriminatory.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[ISSTA 2023]</b> Yisong Xiao, Aishan Liu, <font color="blue">Tianlin Li</font>, Xianglong Liu. Latent Imitator: Generating Natural Individual Discriminatory.
 </p>
 
 
@@ -171,7 +171,7 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ### Trustworthy Code Intelligence: 
 ---
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICML 2026]</b> Kaixin Wang, <font color="blue">Tianlin Li#</font>, Xiaoyu Zhang, Xiaoyu Zhang, Aishan Liu, Xianglong Liu, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Bin Shi#, CodeChemist: Functional Knowledge Transfer for Low-Resource Code Generation via Test-Time Scaling.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[ICML 2026]</b> Kaixin Wang, <font color="blue">Tianlin Li#</font>, Xiaoyu Zhang, Xiaoyu Zhang, Aishan Liu, Xianglong Liu, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Bin Shi#, CodeChemist: Functional Knowledge Transfer for Low-Resource Code Generation via Test-Time Scaling.
 </p>
 
 
@@ -180,7 +180,7 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TOSEM 2025]</b> Chong Wang, Jian Zhang, Yebo Feng, <font color="blue">Tianlin Li</font>, Weisong Sun, Yang Liu, Xin Peng,  Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[TOSEM 2025]</b> Chong Wang, Jian Zhang, Yebo Feng, <font color="blue">Tianlin Li</font>, Weisong Sun, Yang Liu, Xin Peng,  Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation.
 </p>
 
 <p>
@@ -188,17 +188,17 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ASE 2024]</b> Jian Zhang, Chong Wang, Anran Li, Wenhan Wang, <font color="blue">Tianlin Li</font>, Yang Liu, VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[ASE 2024]</b> Jian Zhang, Chong Wang, Anran Li, Wenhan Wang, <font color="blue">Tianlin Li</font>, Yang Liu, VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair.
 </p>
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[LREC-Coling 2024]</b> Zhiming Li, Yanzhou Li, <font color="blue">Tianlin Li#</font>, Mengnan Du, Bozhi Wu, Yushi Cao, Xiaofei Xie, Yi Li, Yang Liu. Unveiling Project-Specific Bias in Neural Code Models.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(main author)[LREC-Coling 2024]</b> Zhiming Li, Yanzhou Li, <font color="blue">Tianlin Li#</font>, Mengnan Du, Bozhi Wu, Yushi Cao, Xiaofei Xie, Yi Li, Yang Liu. Unveiling Project-Specific Bias in Neural Code Models.
 </p>
 
 
 <p>
-<a class="media" href="https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-cen" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ASE 2023]</b> Jian Zhang, Shangqing Liu, Xu Wang, <font color="blue">Tianlin Li</font>, Yang Liu. Learning to Locate and Describe Vulnerabilities.
+<a class="media" href="https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-cen" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[ASE 2023]</b> Jian Zhang, Shangqing Liu, Xu Wang, <font color="blue">Tianlin Li</font>, Yang Liu. Learning to Locate and Describe Vulnerabilities.
 </p>
 
 
@@ -206,12 +206,12 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 ---
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TOSEM 2025]</b> Shide Zhou,<font color="blue">Tianlin Li#</font>, Yihao Huang, Ling Shi, Kailong Wang#, Yang Liu, Haoyu Wang. NeuSemSlice: Towards Effective DNN Model Maintenance via Neuron-level Semantic Slicing.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[TOSEM 2025]</b> Shide Zhou,<font color="blue">Tianlin Li#</font>, Yihao Huang, Ling Shi, Kailong Wang#, Yang Liu, Haoyu Wang. NeuSemSlice: Towards Effective DNN Model Maintenance via Neuron-level Semantic Slicing.
 </p>
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICLR 2025]</b> Xiaoyu Zhang, Juan Zhai, Shiqing Ma, Chao Shen,<font color="blue">Tianlin Li</font>, Weipeng Jiang, Yang Liu. Speculative Coreset Selection for Task-Specific Fine-tuning.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[ICLR 2025]</b> Xiaoyu Zhang, Juan Zhai, Shiqing Ma, Chao Shen,<font color="blue">Tianlin Li</font>, Weipeng Jiang, Yang Liu. Speculative Coreset Selection for Task-Specific Fine-tuning.
 </p>
 
 <p>
@@ -219,19 +219,19 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICML 2024]</b>  Zhiming Li, Yushi Cao, Yan Zheng#, Xu Liu, Bozhi Wu, <font color="blue">Tianlin Li#</font>, Xiufeng Xu, Junzhe Jiang, Yon Shin Teo, Shang-Wei Lin, Yang Liu. Improving Neural Logic Machines via Failure Reflection.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[ICML 2024]</b>  Zhiming Li, Yushi Cao, Yan Zheng#, Xu Liu, Bozhi Wu, <font color="blue">Tianlin Li#</font>, Xiufeng Xu, Junzhe Jiang, Yon Shin Teo, Shang-Wei Lin, Yang Liu. Improving Neural Logic Machines via Failure Reflection.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/files/pubs/2022-issta-equafl.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[AAAI 2024</b> <font color="red">oral</font><b>]</b>  Ming Hu, Yue Cao, Anran Li, Zhiming Li, Chengwei Liu, <font color="blue">Tianlin Li</font>, Mingsong Chen, Yang Liu. FedMut: Generalized Federated Learning via Stochastic Mutation.
+<a class="media" href="https://ltl7155.github.io/files/pubs/2022-issta-equafl.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[AAAI 2024</b> <font color="red">oral</font><b>]</b>  Ming Hu, Yue Cao, Anran Li, Zhiming Li, Chengwei Liu, <font color="blue">Tianlin Li</font>, Mingsong Chen, Yang Liu. FedMut: Generalized Federated Learning via Stochastic Mutation.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;<b>[ICLR 2020]</b>  Ruofan Liang*, <font color="blue">Tianlin Li*</font>, Longfei Li, Jing Wang, Quanshi Zhang. Knowledge consistency between neural networks.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp;<b>(CCF A main author)[ICLR 2020]</b>  Ruofan Liang*, <font color="blue">Tianlin Li*</font>, Longfei Li, Jing Wang, Quanshi Zhang. Knowledge consistency between neural networks.
 </p>
 
 ### Others:
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[全国抗恶劣环境计算机第二十八届学术年会]<font color="red">最佳论文</font></b>  李恬霖; 杨宏伟; 马殿富. CPU流水线通路结构形式验证方法与实现.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(main author)[全国抗恶劣环境计算机第二十八届学术年会]<font color="red">最佳论文</font></b>  李恬霖; 杨宏伟; 马殿富. CPU流水线通路结构形式验证方法与实现.
 
 
 
