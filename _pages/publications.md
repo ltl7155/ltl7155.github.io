@@ -147,6 +147,10 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 
 ### Trustworthy Code Intelligence: 
 ---
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICML 2026]</b> Kaixin Wang, <font color="blue">Tianlin Li#</font>, Xiaoyu Zhang, Xiaoyu Zhang, Aishan Liu, Xianglong Liu, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Bin Shi#, CodeChemist: Functional Knowledge Transfer for Low-Resource Code Generation via Test-Time Scaling.
+</p>
+
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICSE NIER 2026]</b> Jingyao Zhang, <font color="blue">Tianlin Li#</font>, Xiaoyu Zhang, Qiang Hu, Bin Shi#, Unveiling the Potential of Diffusion Large Language Models in Software Engineering Tasks: An Empirical Study.
