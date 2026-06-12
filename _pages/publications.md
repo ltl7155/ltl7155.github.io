@@ -27,7 +27,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)ACL 2026 <font color="red">oral</font>]</b> Sheng Chen, TangZhe, Weixing Zhang, Fei Yang, Yuanyuan Wang, <font color="blue">Tianlin Li</font>, Yang Liu. OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[ACL 2026 <font color="red">oral</font>]</b> Sheng Chen, TangZhe, Weixing Zhang, Fei Yang, Yuanyuan Wang, <font color="blue">Tianlin Li</font>, Yang Liu. OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning.
 </p>
 
 <p>
@@ -45,7 +45,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)TDSC 2025]</b> Qi Zhou, Dongxia Wang, <font color="blue">Tianlin Li</font>, Zhihong Xu, Yang Liu, Kui Ren, Wenhai Wang, Qing Guo. Foolsdedit: Deceptively steering your edits towards targeted attribute-aware distribution.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[TDSC 2025]</b> Qi Zhou, Dongxia Wang, <font color="blue">Tianlin Li</font>, Zhihong Xu, Yang Liu, Kui Ren, Wenhai Wang, Qing Guo. Foolsdedit: Deceptively steering your edits towards targeted attribute-aware distribution.
 </p>
 
 
@@ -59,38 +59,38 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A main author)ICML 2025]</b> Qi Zhou, Dongxia Wang#, <font color="blue">Tianlin Li#</font>, Yun Lin, Yang Liu, Jin Song Dong, Qing Guo. Defending LVLMs Against Vision Attacks through Partial-Perception Supervision.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[ICML 2025]</b> Qi Zhou, Dongxia Wang#, <font color="blue">Tianlin Li#</font>, Yun Lin, Yang Liu, Jin Song Dong, Qing Guo. Defending LVLMs Against Vision Attacks through Partial-Perception Supervision.
 </p>
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)TIFS 2025]</b> Aishan Liu, Yuguang Zhou, Xianglong Liu, Tianyuan Zhang, Siyuan Liang, Jiakai Wang, Yanjun Pu, <font color="blue">Tianlin Li</font>, Junqi Zhang, Wenbo Zhou, Qing Guo, Dacheng Tao. Compromising Embodied Agents with Contextual Backdoor Attacks.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[TIFS 2025]</b> Aishan Liu, Yuguang Zhou, Xianglong Liu, Tianyuan Zhang, Siyuan Liang, Jiakai Wang, Yanjun Pu, <font color="blue">Tianlin Li</font>, Junqi Zhang, Wenbo Zhou, Qing Guo, Dacheng Tao. Compromising Embodied Agents with Contextual Backdoor Attacks.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)TOSEM 2025]</b> Xiaoyu Zhang, Cen Zhang, <font color="blue">Tianlin Li</font>, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[TOSEM 2025]</b> Xiaoyu Zhang, Cen Zhang, <font color="blue">Tianlin Li</font>, Yihao Huang, Xiaojun Jia, Xiaofei Xie,
 Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)USENIX Security 2025]</b> Jiachen Zhou, Mingsi Wang, <font color="blue">Tianlin Li</font>, Guozhu Meng, Kai Chen, Dormant: Defending against Pose-driven Human Image Animation.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[USENIX Security 2025]</b> Jiachen Zhou, Mingsi Wang, <font color="blue">Tianlin Li</font>, Guozhu Meng, Kai Chen, Dormant: Defending against Pose-driven Human Image Animation.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A main author)ICSE 2025]</b> Shide Zhou, <font color="blue">Tianlin Li#</font>, Kailong Wang#, Yihao Huang, Ling Shi, Yang Liu, Haoyu Wang, Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[ICSE 2025]</b> Shide Zhou, <font color="blue">Tianlin Li#</font>, Kailong Wang#, Yihao Huang, Ling Shi, Yang Liu, Haoyu Wang, Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks.
 </p>
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)ICSE 2025]</b> Yisong Xiao, Aishan Liu, Xinwei Zhang, Tianyuan Zhang, <font color="blue">Tianlin Li</font>, Siyuan Liang, Xianglong Liu, Yang Liu, Dacheng Tao,  BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[ICSE 2025]</b> Yisong Xiao, Aishan Liu, Xinwei Zhang, Tianyuan Zhang, <font color="blue">Tianlin Li</font>, Siyuan Liang, Xianglong Liu, Yang Liu, Dacheng Tao,  BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)AAAI 2025</b> <font color="red">oral</font><b>]</b> Yihao Huang, Le Liang, <font color="blue">Tianlin Li</font>, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, Yang Liu,  Perception-guided jailbreak against text-to-image models.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[AAAI 2025</b> <font color="red">oral</font><b>]</b> Yihao Huang, Le Liang, <font color="blue">Tianlin Li</font>, Xiaojun Jia, Run Wang, Weikai Miao, Geguang Pu, Yang Liu,  Perception-guided jailbreak against text-to-image models.
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A)NeurIPS 2024]</b> Yanxin Yang, Chentao Jia, Dengke Yan, Ming Hu, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Xian Wei, and Mingsong Chen,  SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[NeurIPS 2024]</b> Yanxin Yang, Chentao Jia, Dengke Yan, Ming Hu, <font color="blue">Tianlin Li</font>, Xiaofei Xie, Xian Wei, and Mingsong Chen,  SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification.
 </p>
 
 <p>
@@ -98,7 +98,7 @@ Yang Liu, Chao Shen. A Mutation-Based Method for Multi-Modal Jailbreaking Attack
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[(CCF A main author)ICLR 2024]</b> Yanzhou Li, <font color="blue">Tianlin Li#</font>, Kangjie Chen#, Jian Zhang, Shangqing Liu, Wenhan
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[ICLR 2024]</b> Yanzhou Li, <font color="blue">Tianlin Li#</font>, Kangjie Chen#, Jian Zhang, Shangqing Liu, Wenhan
 Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Model Editing.
 </p>
 
