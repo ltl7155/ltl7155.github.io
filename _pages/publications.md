@@ -18,6 +18,28 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ---
 
 <p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TDSC 2026]</b> Shiqian Zhao, Meiqing Wu, Kangjie Chen, Yi Xie, <font color="blue">Tianlin Li</font>, Siew-Kei Lam, Guowen Xu, Anran Li. Enhancing Stereo Matching Domain Generalization with Adversarial Domain Alignment.
+</p>
+
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TASE 2026]</b> Boli Huang, <font color="blue">Tianlin Li</font>, Ming Hu, Ziming Zhao, Mingsong Chen. Learn by Analogy: Distribution-aware Fuzz Testing for DNNs via Cross-Modal Generation.
+</p>
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ACL 2026]</b> Sheng Chen, TangZhe, Weixing Zhang, Fei Yang, Yuanyuan Wang, <font color="blue">Tianlin Li</font>, Yang Liu. OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning.
+</p>
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ACL 2026 findings]</b> Yaoyuan Zhang, Zonghao Ying, Aishan Liu, Jian Yang,  <font color="blue">Tianlin Li</font>, Yaodong Yang, Xianglong Liu. Verify Claimed Text-to-Image Models via Boundary-Aware Prompt Optimization.
+</p>
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[CVPR 2026 findings]</b> Zidong Zhao, Yihao Huang, Qing Guo, <font color="blue">Tianlin Li</font>, Anran Li, Kailong Wang, Jin Song Dong, Geguang Pu. Verify Claimed Text-to-Image Models via Boundary-Aware Prompt Optimization.
+</p>
+
+
+<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Neurocomputing 2025]</b> Mingsi Wang, Jiachen Zhou, <font color="blue">Tianlin Li</font>, Guozhu Meng, Kai Chen. A survey on physical adversarial attacks against face recognition systems.
 </p>
 
@@ -110,8 +132,9 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 
 ### AI Fairness: 
 ---
-
-
+<p>
+<a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[FSE 2026]</b> Xinyue Li, Zhenpeng Chen, Jie M. Zhang, Ying Xiao, <font color="blue">Tianlin Li</font>, Weisong Sun, Yang Liu, Yiling Lou, Xuanzhe Liu. Fairness Testing of Large Language Models in Role-Playing.
+</p>
 
 <p>
 <a class="media" href="https://openreview.net/forum?id=uOwJEPtyOF" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[FSE 2025]</b> Zhenpeng Chen, Xinyue Li, Jie M. Zhang, Weisong Sun, Ying Xiao, <font color="blue">Tianlin Li</font>, Yiling Lou, Yang Liu.  Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?
