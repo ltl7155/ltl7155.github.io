@@ -18,7 +18,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ---
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[TDSC 2026]</b> Shiqian Zhao, Meiqing Wu, Kangjie Chen, Yi Xie, <font color="blue">Tianlin Li</font>, Siew-Kei Lam, Guowen Xu, Anran Li. Enhancing Stereo Matching Domain Generalization with Adversarial Domain Alignment.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[TDSC 2026]</b> Shiqian Zhao, Meiqing Wu, Kangjie Chen, Yi Xie, <font color="blue">Tianlin Li</font>, Siew-Kei Lam, Guowen Xu, Anran Li. Enhancing Stereo Matching Domain Generalization with Adversarial Domain Alignment.
 </p>
 
 
@@ -27,7 +27,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ACL 2026]</b> Sheng Chen, TangZhe, Weixing Zhang, Fei Yang, Yuanyuan Wang, <font color="blue">Tianlin Li</font>, Yang Liu. OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ACL 2026 <font color="red">oral</font>]</b> Sheng Chen, TangZhe, Weixing Zhang, Fei Yang, Yuanyuan Wang, <font color="blue">Tianlin Li</font>, Yang Liu. OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning.
 </p>
 
 <p>
