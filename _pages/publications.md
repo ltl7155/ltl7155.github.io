@@ -18,6 +18,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ---
 
 <p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICLR 2026 workshop <font color="red">outstanding paper</font>]</b> Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, Zhenfei Yin, <font color="blue">Tianlin Li</font>, Jian Yang, Yaodong Yang, Aishan Liu, Xianglong Liu. RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic
+.
+</p>
+
+<p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[TDSC 2026]</b> Shiqian Zhao, Meiqing Wu, Kangjie Chen, Yi Xie, <font color="blue">Tianlin Li</font>, Siew-Kei Lam, Guowen Xu, Anran Li. Enhancing Stereo Matching Domain Generalization with Adversarial Domain Alignment.
 </p>
 
