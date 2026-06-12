@@ -50,7 +50,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICECCS 2025 Position]</b> <font color="blue">Tianlin Li</font>, Qiang Hu#, Chong Wang, Jian Zhang, Wei Ma, Aishan Liu, Jingyi Wang, Yang Liu. An Analytical Perspective on Software Engineering for Large Language Models.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(main author)[ICECCS 2025 Position]</b> <font color="blue">Tianlin Li</font>, Qiang Hu#, Chong Wang, Jian Zhang, Wei Ma, Aishan Liu, Jingyi Wang, Yang Liu. An Analytical Perspective on Software Engineering for Large Language Models.
 </p>
 
 <p>
