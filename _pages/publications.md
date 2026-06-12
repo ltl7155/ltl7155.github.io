@@ -103,7 +103,7 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 </p>
 
 <p>
-<a class="media" href="https://ltl7155.github.io/files/pubs/2023-ieeesp-rengar.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main)[ICLR 2024]</b> Yue Cao, <font color="blue">Tianlin Li</font>, Xiaofeng Cao, Ivor Tsang, Yang Liu, Qing Guo. IRAD: Implicit Representation-driven Image Resampling against Adversarial Attacks.
+<a class="media" href="https://ltl7155.github.io/files/pubs/2023-ieeesp-rengar.pdf" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[ICLR 2024]</b> Yue Cao, <font color="blue">Tianlin Li</font>, Xiaofeng Cao, Ivor Tsang, Yang Liu, Qing Guo. IRAD: Implicit Representation-driven Image Resampling against Adversarial Attacks.
 </p>
 
 <p>
