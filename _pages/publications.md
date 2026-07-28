@@ -16,6 +16,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ### AI Security: 
 ---
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[ASE 2026]</b> Xiaoyu Zhang, Xianyun Cheng, <font color="blue">Tianlin Li#</font>, Yuwei Zheng, Yue Yang, Yang Liu. Not as Sweet by Another Name: An Empirical Study of Format Robustness in LLM Document Workflows.
+</p>
+
 
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[ICLR 2026 workshop <font color="red">outstanding paper</font>]</b> Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, Zhenfei Yin, <font color="blue">Tianlin Li</font>, Jian Yang, Yaodong Yang, Aishan Liu, Xianglong Liu. RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic
