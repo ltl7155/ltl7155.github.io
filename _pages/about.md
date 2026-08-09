@@ -29,7 +29,7 @@ Interpretability and Its Applications: [[TOSEM 2025]](https://arxiv.org/pdf/2407
 # News
 
 ---
-- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; July 2026: Our paper "TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis" is accepted by TSE 2026. Congrats to Longtian!
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Aug 2026: Our paper "TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis" is accepted by TSE 2026. Congrats to Longtian!
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; July 2026: Our paper "Not as Sweet by Another Name: An Empirical Study of Format Robustness in LLM Document Workflows" is accepted by ASE 2026.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; July 2026: Our paper "OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning" is awarded as an <font color="blue">ACL 2026 SAC Highlight</font>.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; June 2026: Our paper RoboSafe is awarded the Outstanding Paper Award in ESR@ICLR 2026. Congrats!
