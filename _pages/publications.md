@@ -18,7 +18,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ---
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[TSE 2026]</b> Longtian Wang, Xiaofei Xie, <font color="blue">Tianlin Li#</font>, Yuhan Zhi, Chao Shen. TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[TSE 2026]</b> Longtian Wang, Xiaofei Xie, <font color="blue">Tianlin Li</font>, Yuhan Zhi, Chao Shen. TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis.
 </p>
 
 <p>
