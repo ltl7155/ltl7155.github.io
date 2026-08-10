@@ -54,7 +54,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <p>
-<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>[Neurocomputing 2025]</b> Mingsi Wang, Jiachen Zhou, <font color="blue">Tianlin Li</font>, Guozhu Meng, Kai Chen. A survey on physical adversarial attacks against face recognition systems.
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(Q1)[Neurocomputing 2025]</b> Mingsi Wang, Jiachen Zhou, <font color="blue">Tianlin Li</font>, Guozhu Meng, Kai Chen. A survey on physical adversarial attacks against face recognition systems.
 </p>
 
 
