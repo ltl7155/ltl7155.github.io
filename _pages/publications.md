@@ -184,6 +184,11 @@ Wang, Tianwei Zhang, Yang Liu. BadEdit: Backdooring Large Language Models by Mod
 
 ### Trustworthy Code Intelligence: 
 ---
+
+<p>
+<a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A)[TOSEM 2026]</b> Yang, Bo; Zhang, Xiao; Sun, Weisong; Ma, Guohao; Liu, Han; Yang, Xiaowei; Xiong, Qian; Zhang, Yiran; Li, Tianlin; Liu, Yang; Jin, Zhi.  KGMACG: Knowledge-Guided Multi-Agent Orchestration for Scalable Application-Level Code Generation.
+</p>
+
 <p>
 <a class="media" href="https://ltl7155.github.io/404.html" target="_blank"><img src="https://ltl7155.github.io/images/pdf.png"></a>&nbsp; <b>(CCF A main author)[ICML 2026]</b> Kaixin Wang, <font color="blue">Tianlin Li#</font>, Xiaoyu Zhang, Xiaoyu Zhang, Aishan Liu, Xianglong Liu, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Bin Shi#, CodeChemist: Functional Knowledge Transfer for Low-Resource Code Generation via Test-Time Scaling.
 </p>
