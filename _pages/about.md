@@ -11,7 +11,6 @@ redirect_from:
 ---
 
 I'm an Associate Professor at the School of Computer Science and Engineering, Beihang University, in [Prof. Liu Xianglong’s team](https://xlliu-beihang.github.io/). Previously, I was a research fellow at the CCDS, Nanyang Technological University, under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/). 
-I have been awarded the AISG PhD Fellowship and the DAAD AInet Fellowship, along with third place in the AISG Trusted Media Challenge, receiving a cash prize of 25,000 SGD. I feel fortunate to have the opportunity to work with Tianyu Pang, Chao Du, Qian Liu, and Min Lin at Sea AI Lab.
 
 
 My research：
@@ -21,7 +20,7 @@ Interpretability and Its Applications: [[TOSEM 2025]](https://arxiv.org/pdf/2407
 - Trustworthy Code Intelligence: [[TOSEM 2026]](),[[ICML 2026]](https://arxiv.org/abs/2510.00501), [[ACL 2026]](), [[ICSE NIER 2026]](https://arxiv.org/abs/2510.04605), [[TOSEM 2025]](https://arxiv.org/abs/2401.06391), [[ICSE NEIR 2025]](https://arxiv.org/abs/2410.09048), [[ASE 2024]](https://dl.acm.org/doi/10.1145/3691620.3695555), [[Coling 2024]](https://arxiv.org/abs/2201.07381), [[ASE 2023]](https://ieeexplore.ieee.org/document/10298289)
 
 
-<font color="blue">I am actively seeking highly self-motivated students with strong backgrounds and a keen interest in my research areas, particularly in space intelligence. Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</font>
+<font color="blue">I am actively seeking highly self-motivated students with strong backgrounds and a keen interest in my research areas. Please drop me an email with your CV if you are interested in working with me.</font>
 
 
 
