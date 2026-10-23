@@ -28,6 +28,9 @@ Interpretability and Its Applications: [[TOSEM 2025]](https://arxiv.org/pdf/2407
 # News
 
 ---
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Oct 2026: 恭喜雨萱获得2026年度中国青年科技创新“揭榜挂帅”擂台赛三等奖。
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Oct 2026: One paper was accepted by ICSE 2027.
+- <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Sep 2026: 我们文章被《天基计算与AI赋能的卫星互联网》接收.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Aug 2026: Our paper "KGMACG: Knowledge-Guided Multi-Agent Orchestration for Scalable Application-Level Code Generation" is accepted by TOSEM 2026.
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; Aug 2026: Our paper "TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis" is accepted by TSE 2026. Congrats to Longtian!
 - <img src="https://ltl7155.github.io/images/new.gif">&nbsp; July 2026: Our paper "Not as Sweet by Another Name: An Empirical Study of Format Robustness in LLM Document Workflows" is accepted by ASE 2026.
